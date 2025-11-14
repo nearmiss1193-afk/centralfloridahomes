@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist",
+  "env": {
+    "DATABASE_URL": "@database_url",
+    "RAPIDAPI_KEY": "@rapidapi_key",
+    "GOHIGHLEVEL_API_KEY": "@gohighlevel_api_key",
+    "GOHIGHLEVEL_LOCATION_ID": "@gohighlevel_location_id",
+    "STRIPE_SECRET_KEY": "@stripe_secret_key",
+    "STRIPE_WEBHOOK_SECRET": "@stripe_webhook_secret",
+    "JWT_SECRET": "@jwt_secret",
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "server/index.ts": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/server/index.ts"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/dist/index.html"
+    }
+  ]
+}
