@@ -1,5 +1,40 @@
 [
   {
+    "id": "9192173200",
+    "source": "realty_in_us",
+    "address": "682 Royal Oak Dr E",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "34787",
+    "region": "Greater Orlando",
+    "price": 34900,
+    "priceFormatted": "34,900",
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1120,
+    "lotSize": 0,
+    "yearBuilt": null,
+    "propertyType": "mobile",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 0,
+    "mlsNumber": null,
+    "listingId": "2988469487",
+    "image": "https://ap.rdcpix.com/d1349238cd8c3805f3d726dce423e487l-m3886765419s.jpg",
+    "images": [],
+    "listingUrl": "https://www.realtor.com/realestateandhomes-detail/682-Royal-Oak-Dr-E_Winter-Garden_FL_34787_M91921-73200",
+    "virtualTourUrl": null,
+    "description": "",
+    "photoCount": 20,
+    "tags": [],
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "682-royal-oak-dr-e-winter-garden",
+    "metaTitle": "682 Royal Oak Dr E - Winter Garden, FL - $34,900",
+    "metaDescription": "2 bed, 2 bath home in Winter Garden. 1120 sqft. Listed at $34,900.",
+    "scrapedAt": "2025-11-17T22:25:45.948Z",
+    "lastUpdated": "2025-11-17T22:25:45.948Z"
+  },
+  {
     "id": "5956650376",
     "source": "realty_in_us",
     "address": "1695 Lee Rd Apt C214",
@@ -31,8 +66,8 @@
     "slug": "1695-lee-rd-apt-c214-winter-park",
     "metaTitle": "1695 Lee Rd Apt C214 - Winter Park, FL - $140,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 881 sqft. Listed at $140,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5450174333",
@@ -66,8 +101,8 @@
     "slug": "2500-lee-rd-apt-237-winter-park",
     "metaTitle": "2500 Lee Rd Apt 237 - Winter Park, FL - $150,000",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 645 sqft. Listed at $150,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5863293842",
@@ -101,8 +136,8 @@
     "slug": "1695-lee-rd-apt-d116-winter-park",
     "metaTitle": "1695 Lee Rd Apt D116 - Winter Park, FL - $155,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1149 sqft. Listed at $155,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5970000757",
@@ -136,8 +171,8 @@
     "slug": "1695-lee-rd-apt-d113-winter-park",
     "metaTitle": "1695 Lee Rd Apt D113 - Winter Park, FL - $158,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 881 sqft. Listed at $158,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5436359155",
@@ -171,8 +206,8 @@
     "slug": "2500-lee-rd-apt-243-winter-park",
     "metaTitle": "2500 Lee Rd Apt 243 - Winter Park, FL - $160,000",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 645 sqft. Listed at $160,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5427713457",
@@ -206,8 +241,8 @@
     "slug": "2500-lee-rd-apt-219-winter-park",
     "metaTitle": "2500 Lee Rd Apt 219 - Winter Park, FL - $179,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 851 sqft. Listed at $179,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5314711746",
@@ -241,8 +276,8 @@
     "slug": "1250-s-denning-st-apt-122-winter-park",
     "metaTitle": "1250 S Denning St Apt 122 - Winter Park, FL - $179,900",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 653 sqft. Listed at $179,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5957134833",
@@ -276,8 +311,8 @@
     "slug": "1695-lee-rd-apt-e215-winter-park",
     "metaTitle": "1695 Lee Rd Apt E215 - Winter Park, FL - $185,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1149 sqft. Listed at $185,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "9671639415",
@@ -311,8 +346,8 @@
     "slug": "2500-lee-rd-apt-232-winter-park",
     "metaTitle": "2500 Lee Rd Apt 232 - Winter Park, FL - $189,000",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 645 sqft. Listed at $189,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5756899485",
@@ -346,8 +381,8 @@
     "slug": "700-melrose-ave-apt-d21-winter-park",
     "metaTitle": "700 Melrose Ave Apt D21 - Winter Park, FL - $198,800",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 871 sqft. Listed at $198,800.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5441538782",
@@ -381,8 +416,8 @@
     "slug": "2500-lee-rd-apt-208-winter-park",
     "metaTitle": "2500 Lee Rd Apt 208 - Winter Park, FL - $200,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 956 sqft. Listed at $200,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5948535574",
@@ -416,8 +451,8 @@
     "slug": "1695-lee-rd-apt-c202-winter-park",
     "metaTitle": "1695 Lee Rd Apt C202 - Winter Park, FL - $210,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1149 sqft. Listed at $210,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5422160831",
@@ -451,8 +486,8 @@
     "slug": "151-n-orlando-ave-apt-226-winter-park",
     "metaTitle": "151 N Orlando Ave Apt 226 - Winter Park, FL - $235,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 768 sqft. Listed at $235,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5712446655",
@@ -486,8 +521,8 @@
     "slug": "700-melrose-ave-apt-j23-winter-park",
     "metaTitle": "700 Melrose Ave Apt J23 - Winter Park, FL - $235,000",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 772 sqft. Listed at $235,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5421713640",
@@ -521,8 +556,8 @@
     "slug": "151-n-orlando-ave-apt-204-winter-park",
     "metaTitle": "151 N Orlando Ave Apt 204 - Winter Park, FL - $236,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 710 sqft. Listed at $236,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5421564576",
@@ -556,8 +591,8 @@
     "slug": "151-n-orlando-ave-apt-101-winter-park",
     "metaTitle": "151 N Orlando Ave Apt 101 - Winter Park, FL - $260,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 804 sqft. Listed at $260,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6912638095",
@@ -591,8 +626,8 @@
     "slug": "2009-cornell-ave-winter-park",
     "metaTitle": "2009 Cornell Ave - Winter Park, FL - $269,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 762 sqft. Listed at $269,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "9635172111",
@@ -626,8 +661,8 @@
     "slug": "1500-gay-rd-apt-9b-winter-park",
     "metaTitle": "1500 Gay Rd Apt 9B - Winter Park, FL - $269,900",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1026 sqft. Listed at $269,900.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5577229795",
@@ -661,8 +696,8 @@
     "slug": "1500-gay-rd-apt-24b-winter-park",
     "metaTitle": "1500 Gay Rd Apt 24B - Winter Park, FL - $275,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1026 sqft. Listed at $275,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5709092720",
@@ -696,8 +731,8 @@
     "slug": "1250-s-denning-dr-apt-213-winter-park",
     "metaTitle": "1250 S Denning Dr Apt 213 - Winter Park, FL - $275,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 908 sqft. Listed at $275,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5413328803",
@@ -731,8 +766,8 @@
     "slug": "151-n-orlando-ave-apt-118-winter-park",
     "metaTitle": "151 N Orlando Ave Apt 118 - Winter Park, FL - $299,999",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 710 sqft. Listed at $299,999.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5926398076",
@@ -766,8 +801,39 @@
     "slug": "184-sandlewood-trl-2-winter-park",
     "metaTitle": "184 Sandlewood Trl # 2 - Winter Park, FL - $309,000",
     "metaDescription": "2 bed, 3 bath home in Winter Park. 1133 sqft. Listed at $309,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "47722247",
+    "source": "zillow",
+    "address": "1920 Carrigan Ave, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 315000,
+    "priceFormatted": "315,000",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1242,
+    "lotSize": 9263,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 74,
+    "zpid": "47722247",
+    "image": "https://photos.zillowstatic.com/fp/c3345877ee89548a4eb6372d2a997ab7-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47722247_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1920-carrigan-ave-winter-park-fl-32792-winter-park",
+    "metaTitle": "1920 Carrigan Ave, Winter Park, FL 32792 - Winter Park, FL - $315,000",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "9197201268",
@@ -801,8 +867,8 @@
     "slug": "311-e-morse-blvd-apt-7-11-winter-park",
     "metaTitle": "311 E Morse Blvd Apt 7-11 - Winter Park, FL - $349,900",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 570 sqft. Listed at $349,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5797354340",
@@ -836,8 +902,39 @@
     "slug": "611-ololu-dr-winter-park",
     "metaTitle": "611 Ololu Dr - Winter Park, FL - $354,900",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1145 sqft. Listed at $354,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46094331",
+    "source": "zillow",
+    "address": "3117 Shady Pine Ave, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 355000,
+    "priceFormatted": "355,000",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1214,
+    "lotSize": 7571,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 82,
+    "zpid": "46094331",
+    "image": "https://photos.zillowstatic.com/fp/d8f39c610b46af95bf17b96de8dbfb6e-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46094331_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "3117-shady-pine-ave-winter-park-fl-32792-winter-park",
+    "metaTitle": "3117 Shady Pine Ave, Winter Park, FL 32792 - Winter Park, FL - $355,000",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "9890556307",
@@ -871,8 +968,8 @@
     "slug": "311-e-morse-blvd-apt-7-5-winter-park",
     "metaTitle": "311 E Morse Blvd Apt 7-5 - Winter Park, FL - $359,000",
     "metaDescription": "1 bed, 1 bath home in Winter Park. 482 sqft. Listed at $359,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6478750726",
@@ -906,8 +1003,8 @@
     "slug": "780-baffie-ave-winter-park",
     "metaTitle": "780 Baffie Ave - Winter Park, FL - $359,900",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1283 sqft. Listed at $359,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6484713277",
@@ -941,8 +1038,8 @@
     "slug": "320-granada-dr-winter-park",
     "metaTitle": "320 Granada Dr - Winter Park, FL - $360,200",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1401 sqft. Listed at $360,200.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5419179556",
@@ -976,8 +1073,8 @@
     "slug": "150-killarney-bay-ct-5-winter-park",
     "metaTitle": "150 Killarney Bay Ct # 5 - Winter Park, FL - $362,500",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1140 sqft. Listed at $362,500.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5103823778",
@@ -1011,8 +1108,39 @@
     "slug": "770-carver-st-winter-park",
     "metaTitle": "770 Carver St - Winter Park, FL - $375,000",
     "metaDescription": "4 bed, 2 bath home in Winter Park. 1248 sqft. Listed at $375,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46101808",
+    "source": "zillow",
+    "address": "3083 Crane Strand Dr, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 375000,
+    "priceFormatted": "375,000",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1200,
+    "lotSize": 8400,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 3,
+    "zpid": "46101808",
+    "image": "https://photos.zillowstatic.com/fp/ca82e469da0daf5441601fa432f942f7-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46101808_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "3083-crane-strand-dr-winter-park-fl-32792-winter-park",
+    "metaTitle": "3083 Crane Strand Dr, Winter Park, FL 32792 - Winter Park, FL - $375,000",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6877794438",
@@ -1046,8 +1174,39 @@
     "slug": "1975-staunton-ave-winter-park",
     "metaTitle": "1975 Staunton Ave - Winter Park, FL - $386,500",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1200 sqft. Listed at $386,500.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "47727787",
+    "source": "zillow",
+    "address": "3383 Hamlet Loop, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 389900,
+    "priceFormatted": "389,900",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1201,
+    "lotSize": 6658,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 7,
+    "zpid": "47727787",
+    "image": "https://photos.zillowstatic.com/fp/0712678b1080ebf64e30a4fc1b2a20a3-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47727787_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "3383-hamlet-loop-winter-park-fl-32792-winter-park",
+    "metaTitle": "3383 Hamlet Loop, Winter Park, FL 32792 - Winter Park, FL - $389,900",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5431514583",
@@ -1081,8 +1240,8 @@
     "slug": "1229-park-green-pl-winter-park",
     "metaTitle": "1229 Park Green Pl - Winter Park, FL - $395,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1495 sqft. Listed at $395,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5925292814",
@@ -1116,8 +1275,70 @@
     "slug": "240-killarney-bay-ct-4-winter-park",
     "metaTitle": "240 Killarney Bay Ct # 4 - Winter Park, FL - $399,000",
     "metaDescription": "2 bed, 3 bath home in Winter Park. 1536 sqft. Listed at $399,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "47726287",
+    "source": "zillow",
+    "address": "1670 Clematis Ln, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 399900,
+    "priceFormatted": "399,900",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1401,
+    "lotSize": 8250,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 45,
+    "zpid": "47726287",
+    "image": "https://photos.zillowstatic.com/fp/428547ff240a6794d94b7e5e614a0c0e-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47726287_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1670-clematis-ln-winter-park-fl-32792-winter-park",
+    "metaTitle": "1670 Clematis Ln, Winter Park, FL 32792 - Winter Park, FL - $399,900",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
+  },
+  {
+    "id": "47731668",
+    "source": "zillow",
+    "address": "5563 Garden Grove Cir, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 409999,
+    "priceFormatted": "409,999",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1436,
+    "lotSize": 9000,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 0,
+    "zpid": "47731668",
+    "image": "https://photos.zillowstatic.com/fp/94ed183846a981a5a71009e0c0a5ba63-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47731668_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "5563-garden-grove-cir-winter-park-fl-32792-winter-park",
+    "metaTitle": "5563 Garden Grove Cir, Winter Park, FL 32792 - Winter Park, FL - $409,999",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6874962227",
@@ -1151,8 +1372,8 @@
     "slug": "1872-biscayne-dr-winter-park",
     "metaTitle": "1872 Biscayne Dr - Winter Park, FL - $415,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 969 sqft. Listed at $415,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5806260901",
@@ -1186,8 +1407,8 @@
     "slug": "2580-euston-rd-winter-park",
     "metaTitle": "2580 Euston Rd - Winter Park, FL - $425,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1158 sqft. Listed at $425,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5792547034",
@@ -1221,8 +1442,8 @@
     "slug": "1007-early-ave-winter-park",
     "metaTitle": "1007 Early Ave - Winter Park, FL - $425,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1721 sqft. Listed at $425,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5052724740",
@@ -1256,8 +1477,8 @@
     "slug": "2464-lotafun-ave-winter-park",
     "metaTitle": "2464 Lotafun Ave - Winter Park, FL - $430,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 1804 sqft. Listed at $430,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6502600929",
@@ -1291,8 +1512,8 @@
     "slug": "740-baffie-ave-winter-park",
     "metaTitle": "740 Baffie Ave - Winter Park, FL - $445,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1456 sqft. Listed at $445,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5400248457",
@@ -1326,8 +1547,8 @@
     "slug": "2148-blossom-ln-winter-park",
     "metaTitle": "2148 Blossom Ln - Winter Park, FL - $449,900",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1685 sqft. Listed at $449,900.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6921134730",
@@ -1361,8 +1582,8 @@
     "slug": "1564-cavendish-rd-winter-park",
     "metaTitle": "1564 Cavendish Rd - Winter Park, FL - $450,000",
     "metaDescription": "3 bed, 1 bath home in Winter Park. 1140 sqft. Listed at $450,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6163284588",
@@ -1396,8 +1617,101 @@
     "slug": "3601-midiron-dr-winter-park",
     "metaTitle": "3601 Midiron Dr - Winter Park, FL - $459,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 954 sqft. Listed at $459,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "47728040",
+    "source": "zillow",
+    "address": "5338 Tangerine Ave, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 459900,
+    "priceFormatted": "459,900",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2195,
+    "lotSize": 9300,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 187,
+    "zpid": "47728040",
+    "image": "https://photos.zillowstatic.com/fp/5dc2aec548ca402a38e60587d93f060e-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47728040_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "5338-tangerine-ave-winter-park-fl-32792-winter-park",
+    "metaTitle": "5338 Tangerine Ave, Winter Park, FL 32792 - Winter Park, FL - $459,900",
+    "metaDescription": "4 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
+  },
+  {
+    "id": "47722694",
+    "source": "zillow",
+    "address": "2218 King Richards Ct, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 460000,
+    "priceFormatted": "460,000",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1562,
+    "lotSize": 8400,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 4,
+    "zpid": "47722694",
+    "image": "https://photos.zillowstatic.com/fp/768257d6881c1a79dad0ee0e6849bcc1-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47722694_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2218-king-richards-ct-winter-park-fl-32792-winter-park",
+    "metaTitle": "2218 King Richards Ct, Winter Park, FL 32792 - Winter Park, FL - $460,000",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
+  },
+  {
+    "id": "46046343",
+    "source": "zillow",
+    "address": "2835 Bongart Rd, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 464900,
+    "priceFormatted": "464,900",
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1880,
+    "lotSize": 7112,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 171,
+    "zpid": "46046343",
+    "image": "https://photos.zillowstatic.com/fp/dd68117663c9a45917c37283d51e2972-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46046343_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2835-bongart-rd-winter-park-fl-32792-winter-park",
+    "metaTitle": "2835 Bongart Rd, Winter Park, FL 32792 - Winter Park, FL - $464,900",
+    "metaDescription": "3 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6888266168",
@@ -1431,8 +1745,8 @@
     "slug": "1386-clay-st-winter-park",
     "metaTitle": "1386 Clay St - Winter Park, FL - $479,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 1182 sqft. Listed at $479,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5671980337",
@@ -1466,8 +1780,8 @@
     "slug": "690-osceola-ave-apt-502-winter-park",
     "metaTitle": "690 Osceola Ave Apt 502 - Winter Park, FL - $485,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1400 sqft. Listed at $485,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5799702095",
@@ -1501,8 +1815,39 @@
     "slug": "259-blossom-ln-winter-park",
     "metaTitle": "259 Blossom Ln - Winter Park, FL - $499,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1354 sqft. Listed at $499,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "47722560",
+    "source": "zillow",
+    "address": "1422 Tierra Cir, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 499000,
+    "priceFormatted": "499,000",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1827,
+    "lotSize": 8397,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 48,
+    "zpid": "47722560",
+    "image": "https://photos.zillowstatic.com/fp/e29024982492dd62960616ae192226f0-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47722560_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1422-tierra-cir-winter-park-fl-32792-winter-park",
+    "metaTitle": "1422 Tierra Cir, Winter Park, FL 32792 - Winter Park, FL - $499,000",
+    "metaDescription": "4 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5798136925",
@@ -1536,8 +1881,70 @@
     "slug": "2381-roxbury-rd-winter-park",
     "metaTitle": "2381 Roxbury Rd - Winter Park, FL - $499,900",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1785 sqft. Listed at $499,900.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46039403",
+    "source": "zillow",
+    "address": "2381 Roxbury Rd, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 499900,
+    "priceFormatted": "499,900",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1785,
+    "lotSize": 0.27522956841139,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 22,
+    "zpid": "46039403",
+    "image": "https://photos.zillowstatic.com/fp/b07945c27e6545c1f4cb3bdab99e035f-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46039403_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2381-roxbury-rd-winter-park-fl-32789-winter-park",
+    "metaTitle": "2381 Roxbury Rd, Winter Park, FL 32789 - Winter Park, FL - $499,900",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
+  },
+  {
+    "id": "46094555",
+    "source": "zillow",
+    "address": "1116 Fairway Dr, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 499900,
+    "priceFormatted": "499,900",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1738,
+    "lotSize": 9997,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 308,
+    "zpid": "46094555",
+    "image": "https://photos.zillowstatic.com/fp/299f44483be2dd727b3afc5fa63c9587-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46094555_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1116-fairway-dr-winter-park-fl-32792-winter-park",
+    "metaTitle": "1116 Fairway Dr, Winter Park, FL 32792 - Winter Park, FL - $499,900",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5107699436",
@@ -1571,8 +1978,8 @@
     "slug": "1651-n-park-ave-winter-park",
     "metaTitle": "1651 N Park Ave - Winter Park, FL - $505,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1263 sqft. Listed at $505,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6507967225",
@@ -1606,8 +2013,8 @@
     "slug": "240-orange-terrace-dr-winter-park",
     "metaTitle": "240 Orange Terrace Dr - Winter Park, FL - $515,000",
     "metaDescription": "4 bed, 2 bath home in Winter Park. 1718 sqft. Listed at $515,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5809167644",
@@ -1641,8 +2048,39 @@
     "slug": "240-cambridge-blvd-winter-park",
     "metaTitle": "240 Cambridge Blvd - Winter Park, FL - $525,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1630 sqft. Listed at $525,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "46089501",
+    "source": "zillow",
+    "address": "422 S Ranger Blvd, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 535000,
+    "priceFormatted": "535,000",
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1680,
+    "lotSize": 8361,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 7,
+    "zpid": "46089501",
+    "image": "https://photos.zillowstatic.com/fp/590de6490c2b916f7fb5d5afd7b7ccc2-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46089501_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "422-s-ranger-blvd-winter-park-fl-32792-winter-park",
+    "metaTitle": "422 S Ranger Blvd, Winter Park, FL 32792 - Winter Park, FL - $535,000",
+    "metaDescription": "4 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6553830228",
@@ -1676,8 +2114,8 @@
     "slug": "3025-northwood-blvd-winter-park",
     "metaTitle": "3025 Northwood Blvd - Winter Park, FL - $549,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1548 sqft. Listed at $549,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "9213910264",
@@ -1711,8 +2149,8 @@
     "slug": "100-s-interlachen-ave-410f-winter-park",
     "metaTitle": "100 S Interlachen Ave # 410F - Winter Park, FL - $549,000",
     "metaDescription": "2 bed, 1 bath home in Winter Park. 901 sqft. Listed at $549,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5209619374",
@@ -1746,8 +2184,8 @@
     "slug": "1261-indiana-ave-winter-park",
     "metaTitle": "1261 Indiana Ave - Winter Park, FL - $549,900",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1660 sqft. Listed at $549,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9388307211",
@@ -1781,8 +2219,8 @@
     "slug": "720-n-pennsylvania-ave-winter-park",
     "metaTitle": "720 N Pennsylvania Ave - Winter Park, FL - $550,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1115 sqft. Listed at $550,000.",
-    "scrapedAt": "2025-11-17T22:18:19.764Z",
-    "lastUpdated": "2025-11-17T22:18:19.764Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6889495944",
@@ -1816,8 +2254,8 @@
     "slug": "1875-staunton-ave-winter-park",
     "metaTitle": "1875 Staunton Ave - Winter Park, FL - $560,000",
     "metaDescription": "4 bed, 2 bath home in Winter Park. 2036 sqft. Listed at $560,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5799739361",
@@ -1851,8 +2289,8 @@
     "slug": "212-blossom-ln-winter-park",
     "metaTitle": "212 Blossom Ln - Winter Park, FL - $565,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1771 sqft. Listed at $565,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6920538474",
@@ -1886,8 +2324,8 @@
     "slug": "1010-aragon-ave-winter-park",
     "metaTitle": "1010 Aragon Ave - Winter Park, FL - $575,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1453 sqft. Listed at $575,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5075427130",
@@ -1921,8 +2359,8 @@
     "slug": "720-w-webster-ave-winter-park",
     "metaTitle": "720 W Webster Ave - Winter Park, FL - $575,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1356 sqft. Listed at $575,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9786069593",
@@ -1956,8 +2394,8 @@
     "slug": "151-n-orlando-ave-apt-212-winter-park",
     "metaTitle": "151 N Orlando Ave Apt 212 - Winter Park, FL - $575,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1875 sqft. Listed at $575,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6323157008",
@@ -1991,8 +2429,8 @@
     "slug": "1740-anzle-ave-winter-park",
     "metaTitle": "1740 Anzle Ave - Winter Park, FL - $580,000",
     "metaDescription": "4 bed, 2 bath home in Winter Park. 1808 sqft. Listed at $580,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9697999900",
@@ -2026,8 +2464,8 @@
     "slug": "1250-formosa-ave-winter-park",
     "metaTitle": "1250 Formosa Ave - Winter Park, FL - $590,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 1937 sqft. Listed at $590,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5443290621",
@@ -2061,8 +2499,8 @@
     "slug": "640-killarney-bay-ct-4-winter-park",
     "metaTitle": "640 Killarney Bay Ct # 4 - Winter Park, FL - $599,000",
     "metaDescription": "2 bed, 3 bath home in Winter Park. 1718 sqft. Listed at $599,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6914389594",
@@ -2096,8 +2534,39 @@
     "slug": "1451-cavendish-rd-winter-park",
     "metaTitle": "1451 Cavendish Rd - Winter Park, FL - $619,500",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1437 sqft. Listed at $619,500.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46108859",
+    "source": "zillow",
+    "address": "1451 Cavendish Road, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 619500,
+    "priceFormatted": "619,500",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1437,
+    "lotSize": 0.27635445362718,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 18,
+    "zpid": "46108859",
+    "image": "https://photos.zillowstatic.com/fp/f02ef0925f9334f264efede1474632de-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46108859_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1451-cavendish-road-winter-park-fl-32789-winter-park",
+    "metaTitle": "1451 Cavendish Road, Winter Park, FL 32789 - Winter Park, FL - $619,500",
+    "metaDescription": "3 bed, 2 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6350098758",
@@ -2131,8 +2600,8 @@
     "slug": "1360-formosa-ave-winter-park",
     "metaTitle": "1360 Formosa Ave - Winter Park, FL - $625,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1890 sqft. Listed at $625,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5100879768",
@@ -2166,8 +2635,8 @@
     "slug": "265-e-canton-ave-ge-winter-park",
     "metaTitle": "265 E Canton Ave # Ge - Winter Park, FL - $631,400",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1057 sqft. Listed at $631,400.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5099612726",
@@ -2201,8 +2670,39 @@
     "slug": "101-s-interlachen-ave-apt-104-winter-park",
     "metaTitle": "101 S Interlachen Ave Apt 104 - Winter Park, FL - $649,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 949 sqft. Listed at $649,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "46046415",
+    "source": "zillow",
+    "address": "2920 Abbey Ct, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 650000,
+    "priceFormatted": "650,000",
+    "beds": 5,
+    "baths": 3,
+    "sqft": 2312,
+    "lotSize": 8932,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 25,
+    "zpid": "46046415",
+    "image": "https://photos.zillowstatic.com/fp/7ff2c6e13524f3b3c0364eab4c269b86-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46046415_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2920-abbey-ct-winter-park-fl-32792-winter-park",
+    "metaTitle": "2920 Abbey Ct, Winter Park, FL 32792 - Winter Park, FL - $650,000",
+    "metaDescription": "5 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5039810332",
@@ -2236,8 +2736,8 @@
     "slug": "1267-michigan-ave-winter-park",
     "metaTitle": "1267 Michigan Ave - Winter Park, FL - $655,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1798 sqft. Listed at $655,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6767573153",
@@ -2271,8 +2771,8 @@
     "slug": "224-overlook-rd-winter-park",
     "metaTitle": "224 Overlook Rd - Winter Park, FL - $665,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1399 sqft. Listed at $665,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6741561525",
@@ -2306,8 +2806,8 @@
     "slug": "1399-aloma-ave-winter-park",
     "metaTitle": "1399 Aloma Ave - Winter Park, FL - $665,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1804 sqft. Listed at $665,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6536911490",
@@ -2341,8 +2841,8 @@
     "slug": "2825-mulford-ave-winter-park",
     "metaTitle": "2825 Mulford Ave - Winter Park, FL - $675,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1249 sqft. Listed at $675,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6718746545",
@@ -2376,8 +2876,8 @@
     "slug": "1620-howell-branch-rd-winter-park",
     "metaTitle": "1620 Howell Branch Rd - Winter Park, FL - $675,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 1984 sqft. Listed at $675,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5038915950",
@@ -2411,8 +2911,39 @@
     "slug": "1275-michigan-ave-winter-park",
     "metaTitle": "1275 Michigan Ave - Winter Park, FL - $679,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1866 sqft. Listed at $679,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "46040085",
+    "source": "zillow",
+    "address": "4019 Quenita Dr, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 689000,
+    "priceFormatted": "689,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2824,
+    "lotSize": 0.26359044995409,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 17,
+    "zpid": "46040085",
+    "image": "https://photos.zillowstatic.com/fp/b09952da169bd7918213c5b0eaa16348-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46040085_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "4019-quenita-dr-winter-park-fl-32792-winter-park",
+    "metaTitle": "4019 Quenita Dr, Winter Park, FL 32792 - Winter Park, FL - $689,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6563596868",
@@ -2446,8 +2977,8 @@
     "slug": "2190-temple-dr-winter-park",
     "metaTitle": "2190 Temple Dr - Winter Park, FL - $695,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1442 sqft. Listed at $695,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6471409335",
@@ -2481,8 +3012,8 @@
     "slug": "763-overspin-dr-winter-park",
     "metaTitle": "763 Overspin Dr - Winter Park, FL - $699,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $699,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5088470209",
@@ -2516,8 +3047,39 @@
     "slug": "770-w-webster-ave-winter-park",
     "metaTitle": "770 W Webster Ave - Winter Park, FL - $725,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $725,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "47703263",
+    "source": "zillow",
+    "address": "1909 Cyril Ct, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 739900,
+    "priceFormatted": "739,900",
+    "beds": 3,
+    "baths": 4,
+    "sqft": 3102,
+    "lotSize": 0.31703397612489,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 38,
+    "zpid": "47703263",
+    "image": "https://photos.zillowstatic.com/fp/ce3fc471b98c6afdad8ec0555f5afbb8-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47703263_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1909-cyril-ct-winter-park-fl-32792-winter-park",
+    "metaTitle": "1909 Cyril Ct, Winter Park, FL 32792 - Winter Park, FL - $739,900",
+    "metaDescription": "3 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6894042389",
@@ -2551,8 +3113,8 @@
     "slug": "1324-indiana-ave-winter-park",
     "metaTitle": "1324 Indiana Ave - Winter Park, FL - $745,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 1692 sqft. Listed at $745,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5917677845",
@@ -2586,8 +3148,39 @@
     "slug": "2955-lolissa-ln-winter-park",
     "metaTitle": "2955 Lolissa Ln - Winter Park, FL - $749,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 3538 sqft. Listed at $749,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46220992",
+    "source": "zillow",
+    "address": "2955 Lolissa Ln, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 749000,
+    "priceFormatted": "749,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3538,
+    "lotSize": 8756,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 26,
+    "zpid": "46220992",
+    "image": "https://photos.zillowstatic.com/fp/5c0345b643efe1b200413dcbb6ff8b43-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46220992_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2955-lolissa-ln-winter-park-fl-32789-winter-park",
+    "metaTitle": "2955 Lolissa Ln, Winter Park, FL 32789 - Winter Park, FL - $749,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6551147080",
@@ -2621,8 +3214,8 @@
     "slug": "3018-northwood-blvd-winter-park",
     "metaTitle": "3018 Northwood Blvd - Winter Park, FL - $749,700",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1761 sqft. Listed at $749,700.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6320491501",
@@ -2656,8 +3249,8 @@
     "slug": "2002-karolina-ave-winter-park",
     "metaTitle": "2002 Karolina Ave - Winter Park, FL - $750,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $750,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6926111001",
@@ -2691,8 +3284,8 @@
     "slug": "1278-s-pennsylvania-ave-13-winter-park",
     "metaTitle": "1278 S Pennsylvania Ave # 13 - Winter Park, FL - $769,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1957 sqft. Listed at $769,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6993956414",
@@ -2726,8 +3319,8 @@
     "slug": "441-n-capen-ave-winter-park",
     "metaTitle": "441 N Capen Ave - Winter Park, FL - $785,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1745 sqft. Listed at $785,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "9693862497",
@@ -2761,8 +3354,8 @@
     "slug": "1770-bryan-ave-winter-park",
     "metaTitle": "1770 Bryan Ave - Winter Park, FL - $800,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $800,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5537254020",
@@ -2796,8 +3389,8 @@
     "slug": "1760-bryan-ave-winter-park",
     "metaTitle": "1760 Bryan Ave - Winter Park, FL - $800,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $800,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5098040127",
@@ -2831,8 +3424,39 @@
     "slug": "675-overspin-dr-winter-park",
     "metaTitle": "675 Overspin Dr - Winter Park, FL - $815,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3062 sqft. Listed at $815,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "99681517",
+    "source": "zillow",
+    "address": "675 Overspin Dr, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 815000,
+    "priceFormatted": "815,000",
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3062,
+    "lotSize": 7000,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 89,
+    "zpid": "99681517",
+    "image": "https://photos.zillowstatic.com/fp/112b8fd75786a17ed2d2241ee2a79e94-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/99681517_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "675-overspin-dr-winter-park-fl-32789-winter-park",
+    "metaTitle": "675 Overspin Dr, Winter Park, FL 32789 - Winter Park, FL - $815,000",
+    "metaDescription": "4 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5803801348",
@@ -2866,8 +3490,8 @@
     "slug": "2612-roxbury-rd-winter-park",
     "metaTitle": "2612 Roxbury Rd - Winter Park, FL - $825,000",
     "metaDescription": "5 bed, 3 bath home in Winter Park. 2472 sqft. Listed at $825,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5412956143",
@@ -2901,8 +3525,8 @@
     "slug": "1018-turner-rd-winter-park",
     "metaTitle": "1018 Turner Rd - Winter Park, FL - $835,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 2237 sqft. Listed at $835,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6888079839",
@@ -2936,8 +3560,8 @@
     "slug": "1835-karolina-ave-winter-park",
     "metaTitle": "1835 Karolina Ave - Winter Park, FL - $864,020",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2662 sqft. Listed at $864,020.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5704658073",
@@ -2971,8 +3595,8 @@
     "slug": "100-s-interlachen-ave-apt-503-winter-park",
     "metaTitle": "100 S Interlachen Ave Apt 503 - Winter Park, FL - $879,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1143 sqft. Listed at $879,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5409378613",
@@ -3006,8 +3630,8 @@
     "slug": "1927-eland-ave-winter-park",
     "metaTitle": "1927 Eland Ave - Winter Park, FL - $893,000",
     "metaDescription": "5 bed, 3 bath home in Winter Park. 2242 sqft. Listed at $893,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6823650173",
@@ -3041,8 +3665,8 @@
     "slug": "2573-madeline-ave-winter-park",
     "metaTitle": "2573 Madeline Ave - Winter Park, FL - $899,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 2035 sqft. Listed at $899,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6865794805",
@@ -3076,8 +3700,8 @@
     "slug": "915-garden-dr-winter-park",
     "metaTitle": "915 Garden Dr - Winter Park, FL - $900,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 2456 sqft. Listed at $900,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9836351357",
@@ -3111,8 +3735,8 @@
     "slug": "karolina-ave-lot-21-winter-park",
     "metaTitle": "Karolina Ave Lot 21 - Winter Park, FL - $916,050",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2662 sqft. Listed at $916,050.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5406413296",
@@ -3146,8 +3770,8 @@
     "slug": "208-brewer-ave-winter-park",
     "metaTitle": "208 Brewer Ave - Winter Park, FL - $925,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2173 sqft. Listed at $925,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5051220225",
@@ -3181,8 +3805,8 @@
     "slug": "2823-wright-ave-winter-park",
     "metaTitle": "2823 Wright Ave - Winter Park, FL - $929,900",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1536 sqft. Listed at $929,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6561618810",
@@ -3216,8 +3840,8 @@
     "slug": "2129-fosgate-dr-winter-park",
     "metaTitle": "2129 Fosgate Dr - Winter Park, FL - $935,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 2515 sqft. Listed at $935,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9554209576",
@@ -3251,8 +3875,8 @@
     "slug": "karolina-ave-lot-20-winter-park",
     "metaTitle": "Karolina Ave Lot 20 - Winter Park, FL - $935,040",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2662 sqft. Listed at $935,040.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6568098893",
@@ -3286,8 +3910,8 @@
     "slug": "668-overspin-dr-winter-park",
     "metaTitle": "668 Overspin Dr - Winter Park, FL - $950,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 2509 sqft. Listed at $950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6737052346",
@@ -3321,8 +3945,39 @@
     "slug": "250-cortland-ave-winter-park",
     "metaTitle": "250 Cortland Ave - Winter Park, FL - $950,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 2114 sqft. Listed at $950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "81414642",
+    "source": "zillow",
+    "address": "210 Laurel Park Ct, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 950000,
+    "priceFormatted": "950,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2838,
+    "lotSize": 0.2612258953168,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 9,
+    "zpid": "81414642",
+    "image": "https://photos.zillowstatic.com/fp/5d7b76306bf543adbae188fac896d7bd-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/81414642_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "210-laurel-park-ct-winter-park-fl-32792-winter-park",
+    "metaTitle": "210 Laurel Park Ct, Winter Park, FL 32792 - Winter Park, FL - $950,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5088023018",
@@ -3356,8 +4011,8 @@
     "slug": "870-carver-st-winter-park",
     "metaTitle": "870 Carver St - Winter Park, FL - $975,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1875 sqft. Listed at $975,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6748000309",
@@ -3391,8 +4046,39 @@
     "slug": "913-moss-ln-winter-park",
     "metaTitle": "913 Moss Ln - Winter Park, FL - $975,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1887 sqft. Listed at $975,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "46068742",
+    "source": "zillow",
+    "address": "870 Carver St, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 975000,
+    "priceFormatted": "975,000",
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1875,
+    "lotSize": 5994,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 3,
+    "zpid": "46068742",
+    "image": "https://photos.zillowstatic.com/fp/fa55f49bc82823b95773505263405148-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46068742_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "870-carver-st-winter-park-fl-32789-winter-park",
+    "metaTitle": "870 Carver St, Winter Park, FL 32789 - Winter Park, FL - $975,000",
+    "metaDescription": "3 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5688936341",
@@ -3426,8 +4112,8 @@
     "slug": "620-virginia-dr-winter-park",
     "metaTitle": "620 Virginia Dr - Winter Park, FL - $995,000",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1577 sqft. Listed at $995,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5291755926",
@@ -3461,8 +4147,8 @@
     "slug": "210-e-rockwood-way-winter-park",
     "metaTitle": "210 E Rockwood Way - Winter Park, FL - $1,000,500",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1431 sqft. Listed at $1,000,500.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6432991297",
@@ -3496,8 +4182,39 @@
     "slug": "901-palmer-ave-winter-park",
     "metaTitle": "901 Palmer Ave - Winter Park, FL - $1,050,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 1843 sqft. Listed at $1,050,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "333451443",
+    "source": "zillow",
+    "address": "1245 Wading Waters Cir, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1065000,
+    "priceFormatted": "1,065,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3050,
+    "lotSize": 9879,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 6,
+    "zpid": "333451443",
+    "image": "https://photos.zillowstatic.com/fp/6736bffe1b0499992b2176b8f44a0881-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/333451443_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1245-wading-waters-cir-winter-park-fl-32792-winter-park",
+    "metaTitle": "1245 Wading Waters Cir, Winter Park, FL 32792 - Winter Park, FL - $1,065,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6761056199",
@@ -3531,8 +4248,8 @@
     "slug": "1450-chestnut-ave-winter-park",
     "metaTitle": "1450 Chestnut Ave - Winter Park, FL - $1,095,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 1942 sqft. Listed at $1,095,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6779825424",
@@ -3566,8 +4283,8 @@
     "slug": "2607-lafayette-ave-winter-park",
     "metaTitle": "2607 Lafayette Ave - Winter Park, FL - $1,095,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2770 sqft. Listed at $1,095,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6732907603",
@@ -3601,8 +4318,8 @@
     "slug": "1611-tioga-trl-winter-park",
     "metaTitle": "1611 Tioga Trl - Winter Park, FL - $1,125,000",
     "metaDescription": "4 bed, 2 bath home in Winter Park. 2388 sqft. Listed at $1,125,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5074692785",
@@ -3636,8 +4353,8 @@
     "slug": "100-s-virginia-ave-unit-314-winter-park",
     "metaTitle": "100 S Virginia Ave Unit 314 - Winter Park, FL - $1,129,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 2615 sqft. Listed at $1,129,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5902760096",
@@ -3671,8 +4388,39 @@
     "slug": "1341-lyndale-blvd-winter-park",
     "metaTitle": "1341 Lyndale Blvd - Winter Park, FL - $1,130,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 2388 sqft. Listed at $1,130,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "47722405",
+    "source": "zillow",
+    "address": "5236 Lake Howell Rd, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1185000,
+    "priceFormatted": "1,185,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3710,
+    "lotSize": 0.29357208448118,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 115,
+    "zpid": "47722405",
+    "image": "https://photos.zillowstatic.com/fp/62561fbb6669211742cc1ce142c4c3c4-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/47722405_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "5236-lake-howell-rd-winter-park-fl-32792-winter-park",
+    "metaTitle": "5236 Lake Howell Rd, Winter Park, FL 32792 - Winter Park, FL - $1,185,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5079936309",
@@ -3706,8 +4454,8 @@
     "slug": "1150-kenwood-ave-winter-park",
     "metaTitle": "1150 Kenwood Ave - Winter Park, FL - $1,190,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 2557 sqft. Listed at $1,190,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6782450515",
@@ -3741,8 +4489,8 @@
     "slug": "100-s-interlachen-ave-415-winter-park",
     "metaTitle": "100 S Interlachen Ave # 415 - Winter Park, FL - $1,195,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1267 sqft. Listed at $1,195,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5704099083",
@@ -3776,8 +4524,39 @@
     "slug": "100-s-interlachen-ave-apt-404-winter-park",
     "metaTitle": "100 S Interlachen Ave Apt 404 - Winter Park, FL - $1,195,000",
     "metaDescription": "2 bed, 2 bath home in Winter Park. 1220 sqft. Listed at $1,195,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "306111179",
+    "source": "zillow",
+    "address": "1092 Wading Waters Cir, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1195000,
+    "priceFormatted": "1,195,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3057,
+    "lotSize": 8400,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 4,
+    "zpid": "306111179",
+    "image": "https://photos.zillowstatic.com/fp/1fcd06d2c8187abc19d6380149dc1e3d-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/306111179_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1092-wading-waters-cir-winter-park-fl-32792-winter-park",
+    "metaTitle": "1092 Wading Waters Cir, Winter Park, FL 32792 - Winter Park, FL - $1,195,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6734406464",
@@ -3811,8 +4590,8 @@
     "slug": "1822-greenwich-ave-winter-park",
     "metaTitle": "1822 Greenwich Ave - Winter Park, FL - $1,199,900",
     "metaDescription": "3 bed, 2 bath home in Winter Park. 1627 sqft. Listed at $1,199,900.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6768347514",
@@ -3846,8 +4625,8 @@
     "slug": "1807-magnolia-ave-winter-park",
     "metaTitle": "1807 Magnolia Ave - Winter Park, FL - $1,201,000",
     "metaDescription": "5 bed, 3 bath home in Winter Park. 2618 sqft. Listed at $1,201,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5691619489",
@@ -3881,8 +4660,8 @@
     "slug": "1981-blue-ridge-rd-winter-park",
     "metaTitle": "1981 Blue Ridge Rd - Winter Park, FL - $1,230,000",
     "metaDescription": "4 bed, 2 bath home in Winter Park. 2750 sqft. Listed at $1,230,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9941994599",
@@ -3916,8 +4695,39 @@
     "slug": "501-w-canton-ave-winter-park",
     "metaTitle": "501 W Canton Ave - Winter Park, FL - $1,250,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 2372 sqft. Listed at $1,250,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "46073452",
+    "source": "zillow",
+    "address": "1400 S Pennsylvania Ave, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1250000,
+    "priceFormatted": "1,250,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2310,
+    "lotSize": 0.29258494031221,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 291,
+    "zpid": "46073452",
+    "image": "https://photos.zillowstatic.com/fp/06572f069561f3819169a2b07f57dff6-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46073452_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1400-s-pennsylvania-ave-winter-park-fl-32789-winter-park",
+    "metaTitle": "1400 S Pennsylvania Ave, Winter Park, FL 32789 - Winter Park, FL - $1,250,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6528036203",
@@ -3951,8 +4761,39 @@
     "slug": "800-hamilton-place-ct-winter-park",
     "metaTitle": "800 Hamilton Place Ct - Winter Park, FL - $1,295,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 3363 sqft. Listed at $1,295,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "46088828",
+    "source": "zillow",
+    "address": "2015 Summerfield Rd, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1375000,
+    "priceFormatted": "1,375,000",
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3024,
+    "lotSize": 10755,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 10,
+    "zpid": "46088828",
+    "image": "https://photos.zillowstatic.com/fp/65421cba50f360a879999c67cadbc011-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46088828_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2015-summerfield-rd-winter-park-fl-32792-winter-park",
+    "metaTitle": "2015 Summerfield Rd, Winter Park, FL 32792 - Winter Park, FL - $1,375,000",
+    "metaDescription": "4 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6889086019",
@@ -3986,8 +4827,8 @@
     "slug": "525-lakeview-ave-winter-park",
     "metaTitle": "525 Lakeview Ave - Winter Park, FL - $1,390,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3253 sqft. Listed at $1,390,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6890502125",
@@ -4021,8 +4862,8 @@
     "slug": "501-lakeview-ave-winter-park",
     "metaTitle": "501 Lakeview Ave - Winter Park, FL - $1,390,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3253 sqft. Listed at $1,390,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6888340700",
@@ -4056,8 +4897,39 @@
     "slug": "1540-miller-ave-winter-park",
     "metaTitle": "1540 Miller Ave - Winter Park, FL - $1,399,900",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2984 sqft. Listed at $1,399,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "123554372",
+    "source": "zillow",
+    "address": "1445 Via Sangro Pl, Winter Park, FL 32792",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1399990,
+    "priceFormatted": "1,399,990",
+    "beds": 7,
+    "baths": 6,
+    "sqft": 5021,
+    "lotSize": 8767,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 3,
+    "zpid": "123554372",
+    "image": "https://photos.zillowstatic.com/fp/49f87561234f33d4ab09b6def100593c-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/123554372_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1445-via-sangro-pl-winter-park-fl-32792-winter-park",
+    "metaTitle": "1445 Via Sangro Pl, Winter Park, FL 32792 - Winter Park, FL - $1,399,990",
+    "metaDescription": "7 bed, 6 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6788731985",
@@ -4091,8 +4963,8 @@
     "slug": "952-moss-ln-winter-park",
     "metaTitle": "952 Moss Ln - Winter Park, FL - $1,434,950",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3474 sqft. Listed at $1,434,950.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6843982856",
@@ -4126,8 +4998,8 @@
     "slug": "130-w-kings-way-winter-park",
     "metaTitle": "130 W Kings Way - Winter Park, FL - $1,499,900",
     "metaDescription": "5 bed, 3 bath home in Winter Park. 3145 sqft. Listed at $1,499,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6404749797",
@@ -4161,8 +5033,39 @@
     "slug": "1408-chapman-cir-winter-park",
     "metaTitle": "1408 Chapman Cir - Winter Park, FL - $1,525,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3237 sqft. Listed at $1,525,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "54440475",
+    "source": "zillow",
+    "address": "1408 Chapman Cir, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1525000,
+    "priceFormatted": "1,525,000",
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3237,
+    "lotSize": 8059,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 13,
+    "zpid": "54440475",
+    "image": "https://photos.zillowstatic.com/fp/90a4f6ba6f944e81308d9b32ef7b3d50-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/54440475_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1408-chapman-cir-winter-park-fl-32789-winter-park",
+    "metaTitle": "1408 Chapman Cir, Winter Park, FL 32789 - Winter Park, FL - $1,525,000",
+    "metaDescription": "4 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5790046331",
@@ -4196,8 +5099,8 @@
     "slug": "1453-lyndale-blvd-winter-park",
     "metaTitle": "1453 Lyndale Blvd - Winter Park, FL - $1,545,000",
     "metaDescription": "5 bed, 4 bath home in Winter Park. 3292 sqft. Listed at $1,545,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9414922310",
@@ -4231,8 +5134,8 @@
     "slug": "1473-berkshire-ave-winter-park",
     "metaTitle": "1473 Berkshire Ave - Winter Park, FL - $1,589,904",
     "metaDescription": "5 bed, 4 bath home in Winter Park. 2895 sqft. Listed at $1,589,904.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6750468085",
@@ -4266,8 +5169,39 @@
     "slug": "340-alberta-dr-winter-park",
     "metaTitle": "340 Alberta Dr - Winter Park, FL - $1,598,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3226 sqft. Listed at $1,598,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "46060809",
+    "source": "zillow",
+    "address": "340 Alberta Dr, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1598000,
+    "priceFormatted": "1,598,000",
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3226,
+    "lotSize": 0.29823232323232,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 58,
+    "zpid": "46060809",
+    "image": "https://photos.zillowstatic.com/fp/2e1e2a5a78c18ebe5352237101eedadc-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46060809_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "340-alberta-dr-winter-park-fl-32789-winter-park",
+    "metaTitle": "340 Alberta Dr, Winter Park, FL 32789 - Winter Park, FL - $1,598,000",
+    "metaDescription": "4 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5317543958",
@@ -4301,8 +5235,39 @@
     "slug": "1450-glencoe-rd-winter-park",
     "metaTitle": "1450 Glencoe Rd - Winter Park, FL - $1,625,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 2785 sqft. Listed at $1,625,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46074080",
+    "source": "zillow",
+    "address": "1450 Glencoe Rd, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1625000,
+    "priceFormatted": "1,625,000",
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2785,
+    "lotSize": 0.27924701561065,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 11,
+    "zpid": "46074080",
+    "image": "https://photos.zillowstatic.com/fp/3f39c285628410794d0a904174bcdb62-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46074080_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1450-glencoe-rd-winter-park-fl-32789-winter-park",
+    "metaTitle": "1450 Glencoe Rd, Winter Park, FL 32789 - Winter Park, FL - $1,625,000",
+    "metaDescription": "4 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "9491628831",
@@ -4336,8 +5301,8 @@
     "slug": "607-ellen-dr-winter-park",
     "metaTitle": "607 Ellen Dr - Winter Park, FL - $1,630,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 2812 sqft. Listed at $1,630,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "9854932619",
@@ -4371,8 +5336,8 @@
     "slug": "1510-miller-ave-winter-park",
     "metaTitle": "1510 Miller Ave - Winter Park, FL - $1,634,900",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3252 sqft. Listed at $1,634,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5676154854",
@@ -4406,8 +5371,8 @@
     "slug": "1270-arlington-pl-winter-park",
     "metaTitle": "1270 Arlington Pl - Winter Park, FL - $1,649,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 2964 sqft. Listed at $1,649,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5685172481",
@@ -4441,8 +5406,39 @@
     "slug": "132-burks-cir-winter-park",
     "metaTitle": "132 Burks Cir - Winter Park, FL - $1,675,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3022 sqft. Listed at $1,675,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46082752",
+    "source": "zillow",
+    "address": "132 Burks Cir, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1675000,
+    "priceFormatted": "1,675,000",
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3022,
+    "lotSize": 0.27394398530762,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 24,
+    "zpid": "46082752",
+    "image": "https://photos.zillowstatic.com/fp/592aa5fc952a8c17851de70f154b16e4-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46082752_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "132-burks-cir-winter-park-fl-32789-winter-park",
+    "metaTitle": "132 Burks Cir, Winter Park, FL 32789 - Winter Park, FL - $1,675,000",
+    "metaDescription": "4 bed, 5 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5313481970",
@@ -4476,8 +5472,8 @@
     "slug": "141-w-lake-sue-ave-winter-park",
     "metaTitle": "141 W Lake Sue Ave - Winter Park, FL - $1,690,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $1,690,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6717934917",
@@ -4511,8 +5507,8 @@
     "slug": "1571-lasbury-ave-winter-park",
     "metaTitle": "1571 Lasbury Ave - Winter Park, FL - $1,699,999",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 2749 sqft. Listed at $1,699,999.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5076284246",
@@ -4546,8 +5542,8 @@
     "slug": "1166-oaks-blvd-winter-park",
     "metaTitle": "1166 Oaks Blvd - Winter Park, FL - $1,699,999",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 2860 sqft. Listed at $1,699,999.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6761229719",
@@ -4581,8 +5577,8 @@
     "slug": "1630-chestnut-ave-winter-park",
     "metaTitle": "1630 Chestnut Ave - Winter Park, FL - $1,750,000",
     "metaDescription": "3 bed, 5 bath home in Winter Park. 3164 sqft. Listed at $1,750,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6743126695",
@@ -4616,8 +5612,39 @@
     "slug": "446-alberta-dr-winter-park",
     "metaTitle": "446 Alberta Dr - Winter Park, FL - $1,750,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 3263 sqft. Listed at $1,750,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "46238669",
+    "source": "zillow",
+    "address": "1630 Chestnut Ave, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1750000,
+    "priceFormatted": "1,750,000",
+    "beds": 3,
+    "baths": 5,
+    "sqft": 3164,
+    "lotSize": 6519,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 3,
+    "zpid": "46238669",
+    "image": "https://photos.zillowstatic.com/fp/6c1ecdfa7653631d7db5b1f94a6ac081-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46238669_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1630-chestnut-ave-winter-park-fl-32789-winter-park",
+    "metaTitle": "1630 Chestnut Ave, Winter Park, FL 32789 - Winter Park, FL - $1,750,000",
+    "metaDescription": "3 bed, 5 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6422482302",
@@ -4651,8 +5678,8 @@
     "slug": "825-palmer-ave-winter-park",
     "metaTitle": "825 Palmer Ave - Winter Park, FL - $1,799,000",
     "metaDescription": "3 bed, 3 bath home in Winter Park. 3297 sqft. Listed at $1,799,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5695756009",
@@ -4686,8 +5713,39 @@
     "slug": "617-worthington-dr-winter-park",
     "metaTitle": "617 Worthington Dr - Winter Park, FL - $1,799,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3533 sqft. Listed at $1,799,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "46231672",
+    "source": "zillow",
+    "address": "825 Palmer Ave, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1799000,
+    "priceFormatted": "1,799,000",
+    "beds": 3,
+    "baths": 3,
+    "sqft": 3297,
+    "lotSize": 0.35417814508724,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 73,
+    "zpid": "46231672",
+    "image": "https://photos.zillowstatic.com/fp/507753a892d77444423c5810368230a2-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46231672_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "825-palmer-ave-winter-park-fl-32789-winter-park",
+    "metaTitle": "825 Palmer Ave, Winter Park, FL 32789 - Winter Park, FL - $1,799,000",
+    "metaDescription": "3 bed, 3 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "9292634292",
@@ -4721,8 +5779,8 @@
     "slug": "1016-howell-branch-rd-winter-park",
     "metaTitle": "1016 Howell Branch Rd - Winter Park, FL - $1,836,000",
     "metaDescription": "4 bed, 3 bath home in Winter Park. 3142 sqft. Listed at $1,836,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6789700899",
@@ -4756,8 +5814,8 @@
     "slug": "1710-oneco-ave-winter-park",
     "metaTitle": "1710 Oneco Ave - Winter Park, FL - $1,895,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3174 sqft. Listed at $1,895,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6739251037",
@@ -4791,8 +5849,8 @@
     "slug": "1840-bryan-ave-winter-park",
     "metaTitle": "1840 Bryan Ave - Winter Park, FL - $1,899,500",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3727 sqft. Listed at $1,899,500.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5922056025",
@@ -4826,8 +5884,8 @@
     "slug": "419-w-morse-blvd-winter-park",
     "metaTitle": "419 W Morse Blvd - Winter Park, FL - $1,950,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 3027 sqft. Listed at $1,950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5679806185",
@@ -4861,8 +5919,8 @@
     "slug": "633-balmoral-rd-winter-park",
     "metaTitle": "633 Balmoral Rd - Winter Park, FL - $1,950,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $1,950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6844206452",
@@ -4896,8 +5954,39 @@
     "slug": "2614-parkland-dr-winter-park",
     "metaTitle": "2614 Parkland Dr - Winter Park, FL - $1,950,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3307 sqft. Listed at $1,950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
+  },
+  {
+    "id": "46151943",
+    "source": "zillow",
+    "address": "2614 Parkland Dr, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 1950000,
+    "priceFormatted": "1,950,000",
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3307,
+    "lotSize": 10102,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 68,
+    "zpid": "46151943",
+    "image": "https://photos.zillowstatic.com/fp/833d06379c4673aba35d32ff48766a48-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46151943_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2614-parkland-dr-winter-park-fl-32789-winter-park",
+    "metaTitle": "2614 Parkland Dr, Winter Park, FL 32789 - Winter Park, FL - $1,950,000",
+    "metaDescription": "4 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6763175772",
@@ -4931,8 +6020,8 @@
     "slug": "1861-taylor-ave-winter-park",
     "metaTitle": "1861 Taylor Ave - Winter Park, FL - $1,975,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 3116 sqft. Listed at $1,975,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5287284013",
@@ -4966,8 +6055,8 @@
     "slug": "319-santiago-dr-winter-park",
     "metaTitle": "319 Santiago Dr - Winter Park, FL - $1,990,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3515 sqft. Listed at $1,990,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6702125934",
@@ -5001,8 +6090,8 @@
     "slug": "1612-magnolia-ave-winter-park",
     "metaTitle": "1612 Magnolia Ave - Winter Park, FL - $1,995,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3153 sqft. Listed at $1,995,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6775726171",
@@ -5036,8 +6125,8 @@
     "slug": "1540-palm-ave-winter-park",
     "metaTitle": "1540 Palm Ave - Winter Park, FL - $1,999,000",
     "metaDescription": "5 bed, 4 bath home in Winter Park. 3423 sqft. Listed at $1,999,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6744915460",
@@ -5071,8 +6160,8 @@
     "slug": "1560-woodland-ave-winter-park",
     "metaTitle": "1560 Woodland Ave - Winter Park, FL - $1,999,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3851 sqft. Listed at $1,999,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5677868356",
@@ -5106,8 +6195,39 @@
     "slug": "640-arjay-way-winter-park",
     "metaTitle": "640 Arjay Way - Winter Park, FL - $2,000,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3930 sqft. Listed at $2,000,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
+  },
+  {
+    "id": "46082866",
+    "source": "zillow",
+    "address": "640 Arjay Way, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 2000000,
+    "priceFormatted": "2,000,000",
+    "beds": 5,
+    "baths": 5,
+    "sqft": 3930,
+    "lotSize": 0.35149219467401,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 59,
+    "zpid": "46082866",
+    "image": "https://photos.zillowstatic.com/fp/6b777ae8e8402103c6fd566937843ebd-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46082866_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "640-arjay-way-winter-park-fl-32789-winter-park",
+    "metaTitle": "640 Arjay Way, Winter Park, FL 32789 - Winter Park, FL - $2,000,000",
+    "metaDescription": "5 bed, 5 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5425701096",
@@ -5141,8 +6261,8 @@
     "slug": "2001-lake-dr-winter-park",
     "metaTitle": "2001 Lake Dr - Winter Park, FL - $2,165,000",
     "metaDescription": "5 bed, 4 bath home in Winter Park. 4798 sqft. Listed at $2,165,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6286468061",
@@ -5176,8 +6296,8 @@
     "slug": "2030-versailles-ave-winter-park",
     "metaTitle": "2030 Versailles Ave - Winter Park, FL - $2,175,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3461 sqft. Listed at $2,175,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5106059734",
@@ -5211,8 +6331,8 @@
     "slug": "922-n-pennsylvania-ave-winter-park",
     "metaTitle": "922 N Pennsylvania Ave - Winter Park, FL - $2,175,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 3440 sqft. Listed at $2,175,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6763399367",
@@ -5246,8 +6366,8 @@
     "slug": "715-via-bella-winter-park",
     "metaTitle": "715 Via Bella - Winter Park, FL - $2,219,000",
     "metaDescription": "5 bed, 4 bath home in Winter Park. 4328 sqft. Listed at $2,219,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6720758905",
@@ -5281,8 +6401,8 @@
     "slug": "1781-pine-ave-winter-park",
     "metaTitle": "1781 Pine Ave - Winter Park, FL - $2,279,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3882 sqft. Listed at $2,279,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6774906320",
@@ -5316,8 +6436,8 @@
     "slug": "1885-temple-dr-winter-park",
     "metaTitle": "1885 Temple Dr - Winter Park, FL - $2,295,000",
     "metaDescription": "5 bed, 4 bath home in Winter Park. 3691 sqft. Listed at $2,295,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "9567759186",
@@ -5351,8 +6471,8 @@
     "slug": "660-osceola-ave-apt-101-winter-park",
     "metaTitle": "660 Osceola Ave Apt 101 - Winter Park, FL - $2,295,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 2714 sqft. Listed at $2,295,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5835030208",
@@ -5386,8 +6506,39 @@
     "slug": "600-ololu-dr-winter-park",
     "metaTitle": "600 Ololu Dr - Winter Park, FL - $2,295,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3749 sqft. Listed at $2,295,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46238945",
+    "source": "zillow",
+    "address": "1885 Temple Dr, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 2295000,
+    "priceFormatted": "2,295,000",
+    "beds": 5,
+    "baths": 4,
+    "sqft": 3691,
+    "lotSize": 10315,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 5,
+    "zpid": "46238945",
+    "image": "https://photos.zillowstatic.com/fp/bfaada9348a8c78deff7c63c8863e485-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46238945_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1885-temple-dr-winter-park-fl-32789-winter-park",
+    "metaTitle": "1885 Temple Dr, Winter Park, FL 32789 - Winter Park, FL - $2,295,000",
+    "metaDescription": "5 bed, 4 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5376966289",
@@ -5421,8 +6572,39 @@
     "slug": "2412-chantilly-ave-winter-park",
     "metaTitle": "2412 Chantilly Ave - Winter Park, FL - $2,350,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 4506 sqft. Listed at $2,350,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46239400",
+    "source": "zillow",
+    "address": "2412 Chantilly Ave, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 2350000,
+    "priceFormatted": "2,350,000",
+    "beds": 5,
+    "baths": 7,
+    "sqft": 4506,
+    "lotSize": 0.27477043158861,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 4,
+    "zpid": "46239400",
+    "image": "https://photos.zillowstatic.com/fp/7d61769aeb8980ae0b2f9a26cf59a1eb-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46239400_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "2412-chantilly-ave-winter-park-fl-32789-winter-park",
+    "metaTitle": "2412 Chantilly Ave, Winter Park, FL 32789 - Winter Park, FL - $2,350,000",
+    "metaDescription": "5 bed, 7 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5678650941",
@@ -5456,8 +6638,8 @@
     "slug": "521-s-phelps-ave-winter-park",
     "metaTitle": "521 S Phelps Ave - Winter Park, FL - $2,455,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3883 sqft. Listed at $2,455,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6669809664",
@@ -5491,8 +6673,8 @@
     "slug": "1602-alabama-dr-apt-404-winter-park",
     "metaTitle": "1602 Alabama Dr Apt 404 - Winter Park, FL - $2,490,000",
     "metaDescription": "3 bed, 4 bath home in Winter Park. 2709 sqft. Listed at $2,490,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5120572144",
@@ -5526,8 +6708,8 @@
     "slug": "2812-mulford-ave-winter-park",
     "metaTitle": "2812 Mulford Ave - Winter Park, FL - $2,495,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 3656 sqft. Listed at $2,495,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6773647501",
@@ -5561,8 +6743,8 @@
     "slug": "185-sylvan-blvd-winter-park",
     "metaTitle": "185 Sylvan Blvd - Winter Park, FL - $2,590,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3138 sqft. Listed at $2,590,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6767378600",
@@ -5596,8 +6778,8 @@
     "slug": "1661-palm-ave-winter-park",
     "metaTitle": "1661 Palm Ave - Winter Park, FL - $2,598,000",
     "metaDescription": "4 bed, 6 bath home in Winter Park. 3570 sqft. Listed at $2,598,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6419426495",
@@ -5631,8 +6813,39 @@
     "slug": "1401-green-cove-rd-winter-park",
     "metaTitle": "1401 Green Cove Rd - Winter Park, FL - $2,900,000",
     "metaDescription": "3 bed, 7 bath home in Winter Park. 5483 sqft. Listed at $2,900,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46231491",
+    "source": "zillow",
+    "address": "1401 Green Cove Rd, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 2900000,
+    "priceFormatted": "2,900,000",
+    "beds": 3,
+    "baths": 7,
+    "sqft": 5483,
+    "lotSize": 0.26992653810836,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 11,
+    "zpid": "46231491",
+    "image": "https://photos.zillowstatic.com/fp/5c7b74dcab6df5fddd9a374c060b865f-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46231491_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1401-green-cove-rd-winter-park-fl-32789-winter-park",
+    "metaTitle": "1401 Green Cove Rd, Winter Park, FL 32789 - Winter Park, FL - $2,900,000",
+    "metaDescription": "3 bed, 7 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "6787435900",
@@ -5666,8 +6879,8 @@
     "slug": "541-w-canton-ave-winter-park",
     "metaTitle": "541 W Canton Ave - Winter Park, FL - $2,935,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3553 sqft. Listed at $2,935,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6764293750",
@@ -5701,8 +6914,8 @@
     "slug": "457-e-new-england-ave-winter-park",
     "metaTitle": "457 E New England Ave - Winter Park, FL - $3,100,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3847 sqft. Listed at $3,100,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5295258924",
@@ -5736,8 +6949,8 @@
     "slug": "255-stirling-ave-winter-park",
     "metaTitle": "255 Stirling Ave - Winter Park, FL - $3,100,000",
     "metaDescription": "4 bed, 4 bath home in Winter Park. 3635 sqft. Listed at $3,100,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6837312252",
@@ -5771,8 +6984,8 @@
     "slug": "1821-englewood-rd-winter-park",
     "metaTitle": "1821 Englewood Rd - Winter Park, FL - $3,295,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 3863 sqft. Listed at $3,295,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6396284345",
@@ -5806,8 +7019,8 @@
     "slug": "1761-legion-dr-winter-park",
     "metaTitle": "1761 Legion Dr - Winter Park, FL - $3,399,999",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 4955 sqft. Listed at $3,399,999.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6849237354",
@@ -5841,8 +7054,8 @@
     "slug": "1910-glencoe-rd-winter-park",
     "metaTitle": "1910 Glencoe Rd - Winter Park, FL - $3,490,000",
     "metaDescription": "4 bed, 6 bath home in Winter Park. 4205 sqft. Listed at $3,490,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "9064277971",
@@ -5876,8 +7089,8 @@
     "slug": "2905-parkland-dr-winter-park",
     "metaTitle": "2905 Parkland Dr - Winter Park, FL - $3,499,900",
     "metaDescription": "6 bed, 8 bath home in Winter Park. 4858 sqft. Listed at $3,499,900.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6757577657",
@@ -5911,8 +7124,8 @@
     "slug": "1742-temple-dr-winter-park",
     "metaTitle": "1742 Temple Dr - Winter Park, FL - $3,600,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 3658 sqft. Listed at $3,600,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5291010607",
@@ -5946,8 +7159,8 @@
     "slug": "207-e-kings-way-winter-park",
     "metaTitle": "207 E Kings Way - Winter Park, FL - $3,650,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 3719 sqft. Listed at $3,650,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5292687574",
@@ -5981,8 +7194,8 @@
     "slug": "1581-forest-ave-winter-park",
     "metaTitle": "1581 Forest Ave - Winter Park, FL - $3,775,000",
     "metaDescription": "4 bed, 6 bath home in Winter Park. 4683 sqft. Listed at $3,775,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5696911253",
@@ -6016,8 +7229,8 @@
     "slug": "516-henkel-cir-winter-park",
     "metaTitle": "516 Henkel Cir - Winter Park, FL - $3,795,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 4143 sqft. Listed at $3,795,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6854566384",
@@ -6051,8 +7264,8 @@
     "slug": "1820-glencoe-rd-winter-park",
     "metaTitle": "1820 Glencoe Rd - Winter Park, FL - $3,825,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 4055 sqft. Listed at $3,825,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6845249898",
@@ -6086,8 +7299,39 @@
     "slug": "1751-glencoe-rd-winter-park",
     "metaTitle": "1751 Glencoe Rd - Winter Park, FL - $3,895,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 4520 sqft. Listed at $3,895,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46151630",
+    "source": "zillow",
+    "address": "1751 Glencoe Rd, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 3895000,
+    "priceFormatted": "3,895,000",
+    "beds": 5,
+    "baths": 7,
+    "sqft": 4520,
+    "lotSize": 0.29951790633609,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 13,
+    "zpid": "46151630",
+    "image": "https://photos.zillowstatic.com/fp/a40dc82d54ba5cd1628f6bda2a93f00a-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46151630_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1751-glencoe-rd-winter-park-fl-32789-winter-park",
+    "metaTitle": "1751 Glencoe Rd, Winter Park, FL 32789 - Winter Park, FL - $3,895,000",
+    "metaDescription": "5 bed, 7 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "9165652861",
@@ -6121,8 +7365,8 @@
     "slug": "2403-euston-rd-winter-park",
     "metaTitle": "2403 Euston Rd - Winter Park, FL - $3,950,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $3,950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "9537581304",
@@ -6156,8 +7400,8 @@
     "slug": "aloma-ave-winter-park",
     "metaTitle": "Aloma Ave - Winter Park, FL - $3,960,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $3,960,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6747449544",
@@ -6191,8 +7435,8 @@
     "slug": "702-via-bella-winter-park",
     "metaTitle": "702 Via Bella - Winter Park, FL - $4,250,000",
     "metaDescription": "4 bed, 6 bath home in Winter Park. 3720 sqft. Listed at $4,250,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6828442958",
@@ -6226,8 +7470,8 @@
     "slug": "1840-w-fawsett-rd-winter-park",
     "metaTitle": "1840 W Fawsett Rd - Winter Park, FL - $4,295,000",
     "metaDescription": "5 bed, 5 bath home in Winter Park. 4129 sqft. Listed at $4,295,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5103600182",
@@ -6261,8 +7505,8 @@
     "slug": "1161-valencia-ave-winter-park",
     "metaTitle": "1161 Valencia Ave - Winter Park, FL - $4,545,000",
     "metaDescription": "4 bed, 5 bath home in Winter Park. 4181 sqft. Listed at $4,545,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6400905322",
@@ -6296,8 +7540,8 @@
     "slug": "1525-granville-dr-winter-park",
     "metaTitle": "1525 Granville Dr - Winter Park, FL - $4,750,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 5211 sqft. Listed at $4,750,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6700523499",
@@ -6331,8 +7575,8 @@
     "slug": "1150-via-salerno-winter-park",
     "metaTitle": "1150 Via Salerno - Winter Park, FL - $4,750,000",
     "metaDescription": "4 bed, 6 bath home in Winter Park. 3850 sqft. Listed at $4,750,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6732766763",
@@ -6366,8 +7610,8 @@
     "slug": "1660-palmer-ave-winter-park",
     "metaTitle": "1660 Palmer Ave - Winter Park, FL - $4,950,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 6406 sqft. Listed at $4,950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.764Z",
-    "lastUpdated": "2025-11-17T22:18:19.764Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "9404313234",
@@ -6401,8 +7645,8 @@
     "slug": "503-n-interlachen-ave-winter-park",
     "metaTitle": "503 N Interlachen Ave - Winter Park, FL - $4,999,000",
     "metaDescription": "0 bed, 0 bath home in Winter Park. 0 sqft. Listed at $4,999,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6407874053",
@@ -6436,8 +7680,8 @@
     "slug": "1302-raintree-pl-winter-park",
     "metaTitle": "1302 Raintree Pl - Winter Park, FL - $5,300,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 4738 sqft. Listed at $5,300,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "5312326726",
@@ -6471,8 +7715,8 @@
     "slug": "1221-richmond-rd-winter-park",
     "metaTitle": "1221 Richmond Rd - Winter Park, FL - $5,450,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 5164 sqft. Listed at $5,450,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5815705845",
@@ -6506,8 +7750,8 @@
     "slug": "2211-azalea-pl-winter-park",
     "metaTitle": "2211 Azalea Pl - Winter Park, FL - $5,495,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 7278 sqft. Listed at $5,495,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "6402060566",
@@ -6541,8 +7785,8 @@
     "slug": "1860-summerland-ave-winter-park",
     "metaTitle": "1860 Summerland Ave - Winter Park, FL - $5,675,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 5022 sqft. Listed at $5,675,000.",
-    "scrapedAt": "2025-11-17T22:18:19.762Z",
-    "lastUpdated": "2025-11-17T22:18:19.762Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
   },
   {
     "id": "6396396143",
@@ -6576,8 +7820,8 @@
     "slug": "1400-alabama-dr-winter-park",
     "metaTitle": "1400 Alabama Dr - Winter Park, FL - $5,895,000",
     "metaDescription": "5 bed, 9 bath home in Winter Park. 7916 sqft. Listed at $5,895,000.",
-    "scrapedAt": "2025-11-17T22:18:19.764Z",
-    "lastUpdated": "2025-11-17T22:18:19.764Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "5070098100",
@@ -6611,8 +7855,8 @@
     "slug": "887-georgia-ave-winter-park",
     "metaTitle": "887 Georgia Ave - Winter Park, FL - $5,900,000",
     "metaDescription": "6 bed, 6 bath home in Winter Park. 5759 sqft. Listed at $5,900,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.447Z",
+    "lastUpdated": "2025-11-17T22:25:27.447Z"
   },
   {
     "id": "5487988444",
@@ -6646,8 +7890,39 @@
     "slug": "550-palmer-ave-winter-park",
     "metaTitle": "550 Palmer Ave - Winter Park, FL - $7,200,000",
     "metaDescription": "5 bed, 7 bath home in Winter Park. 5939 sqft. Listed at $7,200,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "46060723",
+    "source": "zillow",
+    "address": "550 Palmer Ave, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 7200000,
+    "priceFormatted": "7,200,000",
+    "beds": 5,
+    "baths": 7,
+    "sqft": 5939,
+    "lotSize": 0.48202479338843,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 26,
+    "zpid": "46060723",
+    "image": "https://photos.zillowstatic.com/fp/8b98eda6d7c770589c541e0b363e2878-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/46060723_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "550-palmer-ave-winter-park-fl-32789-winter-park",
+    "metaTitle": "550 Palmer Ave, Winter Park, FL 32789 - Winter Park, FL - $7,200,000",
+    "metaDescription": "5 bed, 7 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   },
   {
     "id": "5394214093",
@@ -6681,8 +7956,8 @@
     "slug": "1112-preserve-point-dr-winter-park",
     "metaTitle": "1112 Preserve Point Dr - Winter Park, FL - $8,500,000",
     "metaDescription": "5 bed, 6 bath home in Winter Park. 6502 sqft. Listed at $8,500,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.448Z",
+    "lastUpdated": "2025-11-17T22:25:27.448Z"
   },
   {
     "id": "6137776585",
@@ -6716,7 +7991,38 @@
     "slug": "1120-preserve-point-dr-winter-park",
     "metaTitle": "1120 Preserve Point Dr - Winter Park, FL - $8,950,000",
     "metaDescription": "7 bed, 11 bath home in Winter Park. 11255 sqft. Listed at $8,950,000.",
-    "scrapedAt": "2025-11-17T22:18:19.763Z",
-    "lastUpdated": "2025-11-17T22:18:19.763Z"
+    "scrapedAt": "2025-11-17T22:25:27.446Z",
+    "lastUpdated": "2025-11-17T22:25:27.446Z"
+  },
+  {
+    "id": "99741708",
+    "source": "zillow",
+    "address": "1120 Preserve Point Dr, Winter Park, FL 32789",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "region": "Greater Orlando",
+    "price": 8950000,
+    "priceFormatted": "8,950,000",
+    "beds": 7,
+    "baths": 11,
+    "sqft": 11255,
+    "lotSize": 1.6336,
+    "yearBuilt": null,
+    "propertyType": "Single Family",
+    "listingStatus": "for_sale",
+    "daysOnMarket": 42,
+    "zpid": "99741708",
+    "image": "https://photos.zillowstatic.com/fp/7e0e8d3c4eefdc7f5086eb42baa88d12-p_e.jpg",
+    "images": [],
+    "listingUrl": "https://www.zillow.com/homedetails/99741708_zpid/",
+    "description": "",
+    "hasGarage": false,
+    "hasPool": false,
+    "slug": "1120-preserve-point-dr-winter-park-fl-32789-winter-park",
+    "metaTitle": "1120 Preserve Point Dr, Winter Park, FL 32789 - Winter Park, FL - $8,950,000",
+    "metaDescription": "7 bed, 11 bath home in Winter Park.",
+    "scrapedAt": "2025-11-17T22:25:29.440Z",
+    "lastUpdated": "2025-11-17T22:25:29.440Z"
   }
 ]

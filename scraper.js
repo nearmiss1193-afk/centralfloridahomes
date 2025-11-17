@@ -48,30 +48,62 @@ const CONFIG = {
     }
   },
 
-  // Central Florida Markets - Tampa to Daytona
+  // Central Florida Markets - Tampa to Daytona - EXPANDED!
   markets: [
-    // Tampa Bay Area
+    // Tampa Bay Area - More ZIP codes for MORE coverage!
     { city: 'Tampa', state: 'FL', state_code: 'FL', zip: '33602', region: 'Tampa Bay', priority: 1 },
-    { city: 'St Petersburg', state: 'FL', state_code: 'FL', zip: '33701', region: 'Tampa Bay', priority: 2 },
-    { city: 'Clearwater', state: 'FL', state_code: 'FL', zip: '33755', region: 'Tampa Bay', priority: 2 },
-    { city: 'Brandon', state: 'FL', state_code: 'FL', zip: '33511', region: 'Tampa Bay', priority: 3 },
-    { city: 'Wesley Chapel', state: 'FL', state_code: 'FL', zip: '33544', region: 'Tampa Bay', priority: 3 },
+    { city: 'Tampa', state: 'FL', state_code: 'FL', zip: '33612', region: 'Tampa Bay', priority: 1 },
+    { city: 'Tampa', state: 'FL', state_code: 'FL', zip: '33647', region: 'Tampa Bay', priority: 1 },
+    { city: 'St Petersburg', state: 'FL', state_code: 'FL', zip: '33701', region: 'Tampa Bay', priority: 1 },
+    { city: 'St Petersburg', state: 'FL', state_code: 'FL', zip: '33710', region: 'Tampa Bay', priority: 1 },
+    { city: 'Clearwater', state: 'FL', state_code: 'FL', zip: '33755', region: 'Tampa Bay', priority: 1 },
+    { city: 'Clearwater', state: 'FL', state_code: 'FL', zip: '33764', region: 'Tampa Bay', priority: 1 },
+    { city: 'Brandon', state: 'FL', state_code: 'FL', zip: '33511', region: 'Tampa Bay', priority: 2 },
+    { city: 'Riverview', state: 'FL', state_code: 'FL', zip: '33569', region: 'Tampa Bay', priority: 2 },
+    { city: 'Wesley Chapel', state: 'FL', state_code: 'FL', zip: '33544', region: 'Tampa Bay', priority: 2 },
+    { city: 'Land O Lakes', state: 'FL', state_code: 'FL', zip: '34638', region: 'Tampa Bay', priority: 2 },
+    { city: 'Lutz', state: 'FL', state_code: 'FL', zip: '33558', region: 'Tampa Bay', priority: 2 },
+    { city: 'Plant City', state: 'FL', state_code: 'FL', zip: '33563', region: 'Tampa Bay', priority: 3 },
+    { city: 'Palm Harbor', state: 'FL', state_code: 'FL', zip: '34683', region: 'Tampa Bay', priority: 3 },
+    { city: 'Largo', state: 'FL', state_code: 'FL', zip: '33773', region: 'Tampa Bay', priority: 3 },
     
-    // Lakeland / Polk County
+    // Lakeland / Polk County - Multiple ZIPs!
     { city: 'Lakeland', state: 'FL', state_code: 'FL', zip: '33801', region: 'Polk County', priority: 1 },
-    { city: 'Winter Haven', state: 'FL', state_code: 'FL', zip: '33880', region: 'Polk County', priority: 2 },
-    { city: 'Auburndale', state: 'FL', state_code: 'FL', zip: '33823', region: 'Polk County', priority: 3 },
+    { city: 'Lakeland', state: 'FL', state_code: 'FL', zip: '33803', region: 'Polk County', priority: 1 },
+    { city: 'Lakeland', state: 'FL', state_code: 'FL', zip: '33813', region: 'Polk County', priority: 1 },
+    { city: 'Winter Haven', state: 'FL', state_code: 'FL', zip: '33880', region: 'Polk County', priority: 1 },
+    { city: 'Winter Haven', state: 'FL', state_code: 'FL', zip: '33881', region: 'Polk County', priority: 1 },
+    { city: 'Auburndale', state: 'FL', state_code: 'FL', zip: '33823', region: 'Polk County', priority: 2 },
+    { city: 'Haines City', state: 'FL', state_code: 'FL', zip: '33844', region: 'Polk County', priority: 2 },
+    { city: 'Bartow', state: 'FL', state_code: 'FL', zip: '33830', region: 'Polk County', priority: 3 },
+    { city: 'Mulberry', state: 'FL', state_code: 'FL', zip: '33860', region: 'Polk County', priority: 3 },
     
-    // Orlando Area
+    // Orlando Area - MORE COVERAGE!
     { city: 'Orlando', state: 'FL', state_code: 'FL', zip: '32801', region: 'Greater Orlando', priority: 1 },
-    { city: 'Kissimmee', state: 'FL', state_code: 'FL', zip: '34741', region: 'Greater Orlando', priority: 2 },
-    { city: 'Winter Park', state: 'FL', state_code: 'FL', zip: '32789', region: 'Greater Orlando', priority: 2 },
-    { city: 'Clermont', state: 'FL', state_code: 'FL', zip: '34711', region: 'Greater Orlando', priority: 3 },
+    { city: 'Orlando', state: 'FL', state_code: 'FL', zip: '32803', region: 'Greater Orlando', priority: 1 },
+    { city: 'Orlando', state: 'FL', state_code: 'FL', zip: '32828', region: 'Greater Orlando', priority: 1 },
+    { city: 'Orlando', state: 'FL', state_code: 'FL', zip: '32835', region: 'Greater Orlando', priority: 1 },
+    { city: 'Kissimmee', state: 'FL', state_code: 'FL', zip: '34741', region: 'Greater Orlando', priority: 1 },
+    { city: 'Kissimmee', state: 'FL', state_code: 'FL', zip: '34744', region: 'Greater Orlando', priority: 1 },
+    { city: 'Winter Park', state: 'FL', state_code: 'FL', zip: '32789', region: 'Greater Orlando', priority: 1 },
+    { city: 'Clermont', state: 'FL', state_code: 'FL', zip: '34711', region: 'Greater Orlando', priority: 2 },
+    { city: 'Ocoee', state: 'FL', state_code: 'FL', zip: '34761', region: 'Greater Orlando', priority: 2 },
+    { city: 'Apopka', state: 'FL', state_code: 'FL', zip: '32703', region: 'Greater Orlando', priority: 2 },
+    { city: 'Winter Garden', state: 'FL', state_code: 'FL', zip: '34787', region: 'Greater Orlando', priority: 2 },
+    { city: 'Altamonte Springs', state: 'FL', state_code: 'FL', zip: '32714', region: 'Greater Orlando', priority: 2 },
+    { city: 'Sanford', state: 'FL', state_code: 'FL', zip: '32771', region: 'Greater Orlando', priority: 3 },
+    { city: 'Longwood', state: 'FL', state_code: 'FL', zip: '32750', region: 'Greater Orlando', priority: 3 },
+    { city: 'Lake Mary', state: 'FL', state_code: 'FL', zip: '32746', region: 'Greater Orlando', priority: 3 },
     
     // Daytona Beach Area
     { city: 'Daytona Beach', state: 'FL', state_code: 'FL', zip: '32114', region: 'Daytona Area', priority: 1 },
-    { city: 'Ormond Beach', state: 'FL', state_code: 'FL', zip: '32174', region: 'Daytona Area', priority: 2 },
-    { city: 'Port Orange', state: 'FL', state_code: 'FL', zip: '32127', region: 'Daytona Area', priority: 2 }
+    { city: 'Daytona Beach', state: 'FL', state_code: 'FL', zip: '32117', region: 'Daytona Area', priority: 1 },
+    { city: 'Ormond Beach', state: 'FL', state_code: 'FL', zip: '32174', region: 'Daytona Area', priority: 1 },
+    { city: 'Port Orange', state: 'FL', state_code: 'FL', zip: '32127', region: 'Daytona Area', priority: 1 },
+    { city: 'Port Orange', state: 'FL', state_code: 'FL', zip: '32129', region: 'Daytona Area', priority: 1 },
+    { city: 'New Smyrna Beach', state: 'FL', state_code: 'FL', zip: '32168', region: 'Daytona Area', priority: 2 },
+    { city: 'Edgewater', state: 'FL', state_code: 'FL', zip: '32132', region: 'Daytona Area', priority: 2 },
+    { city: 'DeLand', state: 'FL', state_code: 'FL', zip: '32720', region: 'Daytona Area', priority: 3 }
   ],
 
   // Output Configuration
@@ -424,8 +456,8 @@ async function main() {
       // Delay to be nice to API
       await delay(1000);
       
-      // Optional: Add Zillow for more coverage (you have Pro plan)
-      if (market.priority === 1) { // Only major cities
+      // Add Zillow for priority 1 and 2 cities (you have Pro plan with low usage!)
+      if (market.priority <= 2) {
         const zillowProps = await searchZillow(market);
         allProperties.push(...zillowProps);
         totalFetched += zillowProps.length;
