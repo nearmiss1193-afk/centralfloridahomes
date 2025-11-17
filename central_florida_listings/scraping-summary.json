@@ -1,0 +1,44 @@
+{
+  "totalProperties": 2983,
+  "scrapedAt": "2025-11-17T22:18:33.037Z",
+  "markets": 15,
+  "apiUsage": {
+    "realtyInUS": "Primary source",
+    "zillow": "Major cities only",
+    "realtor": "Skipped (84% quota used)"
+  },
+  "byRegion": {
+    "Daytona Area": 554,
+    "Polk County": 632,
+    "Tampa Bay": 997,
+    "Greater Orlando": 800
+  },
+  "byCity": {
+    "Ormond Beach": 188,
+    "Daytona Beach": 203,
+    "Auburndale": 200,
+    "Lakeland": 238,
+    "Port Orange": 120,
+    "Winter Haven": 194,
+    "Brandon": 196,
+    "Wesley Chapel": 167,
+    "Valrico": 2,
+    "Clermont": 197,
+    "Largo": 1,
+    "Kissimmee": 185,
+    "Clearwater": 192,
+    "Tampa": 238,
+    "Saint Petersburg": 198,
+    "Orlando": 226,
+    "Winter Park": 192,
+    "Zephyrhills": 3,
+    "Ponce Inlet": 41,
+    "Wilbur By the Sea": 1,
+    "Holly Hill": 1
+  },
+  "priceStats": {
+    "min": 0,
+    "max": 11700000,
+    "average": 589615
+  }
+}

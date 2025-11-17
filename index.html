@@ -1114,9 +1114,11 @@
         </div>
     </footer>
 
+    <script src="properties-data.js"></script>
     <script>
-        // Sample property data - Replace with your actual data from scrapers
-        let allProperties = [
+        // Sample property data - will be replaced with real data from scraper
+        if (typeof allProperties === 'undefined') {
+            allProperties = [
             {
                 id: 1,
                 price: 385000,
@@ -1222,12 +1224,39 @@
                 favorite: false
             }
         ];
+        }
 
         let filteredProperties = [...allProperties];
         let selectedProperty = null;
 
-        // Initialize on page load
-        window.addEventListener('DOMContentLoaded', function() {
+        // Initialize on page load - load real data
+        window.addEventListener('DOMContentLoaded', async function() {
+            // Try to load real scraped data
+            try {
+                const response = await fetch('central_florida_listings/all_listings.json');
+                if (response.ok) {
+                    const scrapedData = await response.json();
+                    // Transform and limit to 100 properties for performance
+                    allProperties = scrapedData.slice(0, 100).map(prop => ({
+                        id: prop.id,
+                        price: prop.price,
+                        address: prop.address,
+                        city: prop.city,
+                        beds: prop.beds,
+                        baths: prop.baths,
+                        sqft: prop.sqft,
+                        image: prop.image || 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600',
+                        status: prop.daysOnMarket <= 7 ? 'new' : 'For Sale',
+                        type: prop.propertyType || 'House',
+                        favorite: false
+                    }));
+                    filteredProperties = [...allProperties];
+                    console.log(`✅ Loaded ${allProperties.length} real properties from scraper!`);
+                }
+            } catch (error) {
+                console.log('Using sample data (scraped data not found)');
+            }
+            
             displayProperties(filteredProperties);
         });
 
