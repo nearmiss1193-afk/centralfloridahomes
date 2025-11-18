@@ -146,7 +146,7 @@
         
         .search-inputs {
             display: grid;
-            grid-template-columns: 2fr 1fr 1fr auto;
+            grid-template-columns: 2fr 1fr 1fr 1fr auto;
             gap: 12px;
             align-items: end;
         }
@@ -809,6 +809,10 @@
                         </select>
                     </div>
                     <div class="input-group">
+                        <label>Zip Code</label>
+                        <input type="text" id="zipFilter" class="search-input" placeholder="e.g., 32801">
+                    </div>
+                    <div class="input-group">
                         <label>Min Price</label>
                         <select id="minPrice" class="search-input">
                             <option value="0">No Min</option>
@@ -1116,147 +1120,25 @@
 
     <script src="properties-data.js"></script>
     <script>
-        // Sample property data - will be replaced with real data from scraper
-        if (typeof allProperties === 'undefined') {
-            allProperties = [
-            {
-                id: 1,
-                price: 385000,
-                address: '1234 Oak Street, Tampa, FL 33602',
-                city: 'Tampa',
-                beds: 4,
-                baths: 2.5,
-                sqft: 2450,
-                image: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600',
-                status: 'new',
-                type: 'House',
-                favorite: false
-            },
-            {
-                id: 2,
-                price: 295000,
-                address: '567 Pine Avenue, Lakeland, FL 33801',
-                city: 'Lakeland',
-                beds: 3,
-                baths: 2,
-                sqft: 1850,
-                image: 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600',
-                status: 'reduced',
-                type: 'House',
-                favorite: false
-            },
-            {
-                id: 3,
-                price: 425000,
-                address: '890 Palm Drive, Orlando, FL 32801',
-                city: 'Orlando',
-                beds: 5,
-                baths: 3,
-                sqft: 3200,
-                image: 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600',
-                status: 'For Sale',
-                type: 'House',
-                favorite: false
-            },
-            {
-                id: 4,
-                price: 325000,
-                address: '321 Beach Road, Daytona Beach, FL 32114',
-                city: 'Daytona Beach',
-                beds: 3,
-                baths: 2,
-                sqft: 1950,
-                image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600',
-                status: 'For Sale',
-                type: 'Condo',
-                favorite: false
-            },
-            {
-                id: 5,
-                price: 450000,
-                address: '789 Sunset Boulevard, Tampa, FL 33602',
-                city: 'Tampa',
-                beds: 4,
-                baths: 3,
-                sqft: 2800,
-                image: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600',
-                status: 'new',
-                type: 'House',
-                favorite: false
-            },
-            {
-                id: 6,
-                price: 265000,
-                address: '456 Maple Street, Lakeland, FL 33801',
-                city: 'Lakeland',
-                beds: 3,
-                baths: 2,
-                sqft: 1650,
-                image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600',
-                status: 'For Sale',
-                type: 'Townhouse',
-                favorite: false
-            },
-            {
-                id: 7,
-                price: 510000,
-                address: '234 Lake View Drive, Orlando, FL 32801',
-                city: 'Orlando',
-                beds: 4,
-                baths: 3.5,
-                sqft: 3400,
-                image: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600',
-                status: 'For Sale',
-                type: 'House',
-                favorite: false
-            },
-            {
-                id: 8,
-                price: 340000,
-                address: '678 Ocean Avenue, Daytona Beach, FL 32114',
-                city: 'Daytona Beach',
-                beds: 2,
-                baths: 2,
-                sqft: 1450,
-                image: 'https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=600',
-                status: 'reduced',
-                type: 'Condo',
-                favorite: false
-            }
-        ];
-        }
-
-        let filteredProperties = [...allProperties];
+        let filteredProperties = [];
         let selectedProperty = null;
 
         // Initialize on page load - load real data
         window.addEventListener('DOMContentLoaded', async function() {
-            // Try to load real scraped data
             try {
-                const response = await fetch('central_florida_listings/all_listings.json');
-                if (response.ok) {
-                    const scrapedData = await response.json();
-                    // Transform the full dataset so city filters always have depth
-                    allProperties = scrapedData.map(prop => ({
-                        id: prop.id,
-                        price: prop.price,
-                        address: prop.address,
-                        city: prop.city,
-                        beds: prop.beds,
-                        baths: prop.baths,
-                        sqft: prop.sqft,
-                        image: prop.image || 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600',
-                        status: prop.daysOnMarket <= 7 ? 'new' : 'For Sale',
-                        type: prop.propertyType || 'House',
-                        favorite: false
-                    }));
-                    filteredProperties = [...allProperties];
-                    console.log(`✅ Loaded ${allProperties.length} real properties from scraper!`);
+                if (typeof loadProperties === 'function') {
+                    allProperties = await loadProperties();
+                } else if (typeof getSampleData === 'function') {
+                    allProperties = getSampleData();
+                } else {
+                    allProperties = [];
                 }
             } catch (error) {
-                console.log('Using sample data (scraped data not found)');
+                console.error('Using fallback data due to load error:', error);
+                allProperties = typeof getSampleData === 'function' ? getSampleData() : [];
             }
-            
+
+            filteredProperties = [...allProperties];
             displayProperties(filteredProperties);
         });
 
@@ -1316,6 +1198,7 @@
         // Filter properties
         function filterProperties() {
             const city = document.getElementById('cityFilter').value;
+            const zip = document.getElementById('zipFilter').value.trim();
             const minPrice = parseInt(document.getElementById('minPrice').value) || 0;
             const maxPrice = parseInt(document.getElementById('maxPrice').value) || 999999999;
             const beds = parseInt(document.getElementById('bedsFilter').value) || 0;
@@ -1325,6 +1208,7 @@
 
             filteredProperties = allProperties.filter(property => {
                 return (!city || property.city === city) &&
+                       (!zip || (property.zip && property.zip.startsWith(zip))) &&
                        property.price >= minPrice &&
                        property.price <= maxPrice &&
                        property.beds >= beds &&
@@ -1435,6 +1319,12 @@
         document.getElementById('bedsFilter').addEventListener('change', filterProperties);
         document.getElementById('bathsFilter').addEventListener('change', filterProperties);
         document.getElementById('typeFilter').addEventListener('change', filterProperties);
+        document.getElementById('zipFilter').addEventListener('change', filterProperties);
+        document.getElementById('zipFilter').addEventListener('keyup', function(e) {
+            if (e.key === 'Enter') {
+                filterProperties();
+            }
+        });
     </script>
 </body>
 </html>
