@@ -20,18 +20,18 @@ async function loadProperties() {
         // Transform scraped data to website format
         cachedProperties = data.map(prop => ({
             id: prop.id,
-            price: prop.price,
+            price: parseNumber(prop.price) || parseNumber(prop.priceFormatted),
             address: prop.address,
             city: prop.city,
             zip: normalizeZip(prop.zip, prop.address),
-            beds: prop.beds,
-            baths: prop.baths,
-            sqft: prop.sqft,
-            image: prop.image || 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600',
-            status: prop.daysOnMarket <= 7 ? 'new' : 'For Sale',
-            type: prop.propertyType || 'House',
+            beds: parseNumber(prop.beds),
+            baths: parseNumber(prop.baths),
+            sqft: parseNumber(prop.sqft || prop.livingArea || prop.squareFootage),
+            image: selectImage(prop),
+            status: normalizeStatus(prop),
+            type: mapPropertyType(prop.propertyType),
             favorite: false
-        }));
+        })).filter(prop => Boolean(prop.address) && Boolean(prop.city));
         
         console.log(`Loaded ${cachedProperties.length} properties`);
         return cachedProperties;
@@ -52,6 +52,95 @@ function normalizeZip(zip, address) {
     }
     const match = address.match(/(\d{5})(?:-\d{4})?$/);
     return match ? match[1] : '';
+}
+
+function parseNumber(value) {
+    if (value === null || value === undefined) {
+        return 0;
+    }
+    if (typeof value === 'number') {
+        return Number.isFinite(value) ? value : 0;
+    }
+    const cleaned = String(value).replace(/[^0-9.-]/g, '');
+    const parsed = Number(cleaned);
+    return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function selectImage(prop) {
+    if (!prop) {
+        return 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600';
+    }
+    if (prop.image) {
+        return prop.image;
+    }
+    if (Array.isArray(prop.images)) {
+        const validImage = prop.images.find(Boolean);
+        if (validImage) {
+            return validImage;
+        }
+    }
+    return 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600';
+}
+
+function normalizeStatus(prop) {
+    if (!prop) {
+        return 'For Sale';
+    }
+
+    if (typeof prop.daysOnMarket === 'number' && prop.daysOnMarket <= 7) {
+        return 'new';
+    }
+
+    const status = (prop.status || prop.listingStatus || '').toLowerCase();
+
+    if (status.includes('pending')) {
+        return 'pending';
+    }
+    if (status.includes('sold')) {
+        return 'sold';
+    }
+    if (status.includes('new')) {
+        return 'new';
+    }
+    if (status.includes('reduced') || (prop.priceChangeAmount && parseNumber(prop.priceChangeAmount) < 0)) {
+        return 'reduced';
+    }
+    if (status.includes('hot')) {
+        return 'hot';
+    }
+    return 'For Sale';
+}
+
+function mapPropertyType(type) {
+    if (!type) {
+        return 'House';
+    }
+    const normalized = String(type).toLowerCase();
+    const map = {
+        'single_family': 'House',
+        'single-family': 'House',
+        'condominium': 'Condo',
+        'condo': 'Condo',
+        'townhouse': 'Townhouse',
+        'townhome': 'Townhouse',
+        'apartment': 'Apartment',
+        'multi_family': 'Multi-Family',
+        'multi-family': 'Multi-Family',
+        'manufactured': 'Manufactured',
+        'mobile': 'Manufactured',
+        'co_op': 'Co-Op',
+        'co-op': 'Co-Op'
+    };
+
+    return map[normalized] || capitalizeWords(normalized.replace(/_/g, ' '));
+}
+
+function capitalizeWords(value) {
+    return value
+        .split(' ')
+        .filter(Boolean)
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ') || 'House';
 }
 
 // Fallback sample data

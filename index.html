@@ -1120,6 +1120,7 @@
 
     <script src="properties-data.js"></script>
     <script>
+        let allProperties = [];
         let filteredProperties = [];
         let selectedProperty = null;
 
@@ -1142,6 +1143,54 @@
             displayProperties(filteredProperties);
         });
 
+        function formatPrice(value) {
+            if (typeof value === 'number' && value > 0) {
+                return `$${value.toLocaleString()}`;
+            }
+            return 'Contact for pricing';
+        }
+
+        function formatCount(value, label) {
+            if (typeof value === 'number' && value > 0) {
+                const rounded = Number.isInteger(value) ? value : Number(value.toFixed(1));
+                const plural = rounded === 1 ? label : `${label}s`;
+                return `${rounded} ${plural}`;
+            }
+            return `— ${label}${label.endsWith('s') ? '' : 's'}`;
+        }
+
+        function formatSqft(value) {
+            if (typeof value === 'number' && value > 0) {
+                return `${value.toLocaleString()} sqft`;
+            }
+            return 'Size TBD';
+        }
+
+        function formatBadge(status) {
+            if (!status || status === 'For Sale') {
+                return '';
+            }
+
+            const normalized = status.toLowerCase();
+            let label = 'For Sale';
+
+            if (normalized === 'new') {
+                label = 'New Listing';
+            } else if (normalized === 'reduced') {
+                label = 'Price Reduced';
+            } else if (normalized === 'hot') {
+                label = 'Hot Home';
+            } else if (normalized === 'pending') {
+                label = 'Pending';
+            } else if (normalized === 'sold') {
+                label = 'Sold';
+            } else {
+                label = normalized.charAt(0).toUpperCase() + normalized.slice(1);
+            }
+
+            return `<div class="property-badge ${normalized}">${label}</div>`;
+        }
+
         // Display properties
         function displayProperties(properties) {
             const grid = document.getElementById('propertyGrid');
@@ -1158,30 +1207,30 @@
                 return;
             }
             
-            countEl.textContent = `${properties.length} properties found`;
+            countEl.textContent = `${properties.length.toLocaleString()} properties found`;
             
             grid.innerHTML = properties.map(property => `
                 <div class="property-card" onclick="openPropertyModal(${property.id})">
                     <img src="${property.image}" alt="${property.address}" class="property-image">
-                    ${property.status !== 'For Sale' ? `<div class="property-badge ${property.status}">${property.status === 'new' ? 'New Listing' : 'Price Reduced'}</div>` : ''}
+                    ${formatBadge(property.status)}
                     <button class="favorite-btn ${property.favorite ? 'active' : ''}" onclick="event.stopPropagation(); toggleFavorite(${property.id})">
                         <i class="${property.favorite ? 'fas' : 'far'} fa-heart"></i>
                     </button>
                     <div class="property-details">
-                        <div class="property-price">$${property.price.toLocaleString()}</div>
+                        <div class="property-price">${formatPrice(property.price)}</div>
                         <div class="property-address">${property.address}</div>
                         <div class="property-specs">
                             <div class="spec">
                                 <i class="fas fa-bed"></i>
-                                ${property.beds} beds
+                                ${formatCount(property.beds, 'bed')}
                             </div>
                             <div class="spec">
                                 <i class="fas fa-bath"></i>
-                                ${property.baths} baths
+                                ${formatCount(property.baths, 'bath')}
                             </div>
                             <div class="spec">
                                 <i class="fas fa-ruler-combined"></i>
-                                ${property.sqft.toLocaleString()} sqft
+                                ${formatSqft(property.sqft)}
                             </div>
                         </div>
                         <div class="property-footer">
