@@ -8,7 +8,9 @@ async function loadProperties() {
             return cachedProperties;
         }
 
-        const response = await fetch('/central_florida_listings/all_listings.json');
+        const response = await fetch('central_florida_listings/all_listings.json', {
+            cache: 'no-store'
+        });
         if (!response.ok) {
             throw new Error(`Fetch failed with status ${response.status}`);
         }
