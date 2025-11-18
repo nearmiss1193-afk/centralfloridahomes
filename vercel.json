@@ -4,17 +4,17 @@
     {
       "src": "index.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "properties-data.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "central_florida_listings/**",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
-    {
-      "src": "/properties-data.js",
-      "dest": "/properties-data.js"
-    },
-    {
-      "src": "/central_florida_listings/(.*)",
-      "dest": "/central_florida_listings/$1"
-    },
     {
       "src": "/(.*)",
       "dest": "/index.html"
