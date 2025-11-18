@@ -1,0 +1,50 @@
+name: Update Galleries
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: {}    # allow manual runs
+
+jobs:
+  update-galleries:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ultimate gallery scraper
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: |
+          node ultimate-gallery-scraper.js
+
+      - name: Copy gallery JSON into project data folder
+        run: |
+          mkdir -p central_florida_listings
+          cp full_mls_listings/gallery_properties.json central_florida_listings/gallery_properties.json
+
+      - name: Commit and push updated gallery data
+        run: |
+          if git diff --quiet central_florida_listings/gallery_properties.json; then
+            echo "No changes to gallery_properties.json"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add central_florida_listings/gallery_properties.json
+          git commit -m "chore: update gallery_properties.json from scraper"
+          git push

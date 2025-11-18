@@ -4,11 +4,13 @@ A modern real estate search website for Central Florida properties including Tam
 
 ## Features
 
-- Property search with advanced filtering
-- City-specific landing pages
-- Lead capture and form integration
-- Responsive design
-- Real-time property filtering
+- Interactive map view with property markers showing prices
+- Filterable property listings by city, price range, and type
+- Beautiful property cards with save functionality
+- Detailed property pages with full specs and location maps
+- BuyAbility™ mortgage calculator with real-time payment estimates
+- Responsive design for mobile and desktop
+- Smooth animations and premium UI elements
 
 ## Deployment
 

@@ -1,9 +1,10 @@
 {
   "name": "central-florida-homes",
   "version": "1.0.0",
-  "description": "Real estate search website for Central Florida properties",
-  "main": "scraper.js",
+  "description": "Real estate listings with galleries",
   "scripts": {
+    "start": "npx serve -l 3000 .",
+    "scrape:galleries": "node ultimate-gallery-scraper.js",
     "scrape": "node scraper.js",
     "scrape:watch": "nodemon scraper.js"
   },
