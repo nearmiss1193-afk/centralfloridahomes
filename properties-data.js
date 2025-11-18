@@ -1,18 +1,22 @@
-// Properties data will be loaded from scraped data
-let allProperties = [];
+// Cache loaded properties so we only transform once per session
+let cachedProperties = [];
 
 // Load properties from JSON file
 async function loadProperties() {
     try {
+        if (cachedProperties.length) {
+            return cachedProperties;
+        }
+
         const response = await fetch('/central_florida_listings/all_listings.json');
         if (!response.ok) {
             throw new Error(`Fetch failed with status ${response.status}`);
         }
 
         const data = await response.json();
-        
+
         // Transform scraped data to website format
-        allProperties = data.map(prop => ({
+        cachedProperties = data.map(prop => ({
             id: prop.id,
             price: prop.price,
             address: prop.address,
@@ -27,13 +31,13 @@ async function loadProperties() {
             favorite: false
         }));
         
-        console.log(`Loaded ${allProperties.length} properties`);
-        return allProperties;
+        console.log(`Loaded ${cachedProperties.length} properties`);
+        return cachedProperties;
     } catch (error) {
         console.error('Error loading properties:', error);
         // Fallback to sample data if fetch fails
-        allProperties = getSampleData();
-        return allProperties;
+        cachedProperties = getSampleData();
+        return cachedProperties;
     }
 }
 
