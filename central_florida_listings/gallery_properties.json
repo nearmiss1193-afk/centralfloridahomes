@@ -1,0 +1,2626 @@
+[
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3211 W Swann Ave UNIT 502, Tampa, FL 33609",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 295000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1032,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ae8c8471ad2671ada42357ffaedfba9a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45049216",
+    "listingUrl": "/homedetails/3211-W-Swann-Ave-UNIT-502-Tampa-FL-33609/45049216_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3611 Wisperbreath Ln, Tampa, FL 33619",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 489900,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 1912,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d8b5c3363643ec9a44aa0bb90f28e250-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44937861",
+    "listingUrl": "/homedetails/3611-Wisperbreath-Ln-Tampa-FL-33619/44937861_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "18959 Wood Sage Dr, Tampa, FL 33647",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 425000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1553,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ce48d4c806fda290f128bd607a34a455-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44921541",
+    "listingUrl": "/homedetails/18959-Wood-Sage-Dr-Tampa-FL-33647/44921541_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4509 N 29th St, Tampa, FL 33610",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 238000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 744,
+    "images": [
+      "https://photos.zillowstatic.com/fp/9abf92be48a3e411fc911a46cd0d51df-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45087186",
+    "listingUrl": "/homedetails/4509-N-29th-St-Tampa-FL-33610/45087186_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "803 W Sitka St, Tampa, FL 33604",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 279900,
+    "beds": 3,
+    "baths": 1,
+    "sqft": 940,
+    "images": [
+      "https://photos.zillowstatic.com/fp/7ede9e82c9cfdaab339f26e1bcfb4845-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45037378",
+    "listingUrl": "/homedetails/803-W-Sitka-St-Tampa-FL-33604/45037378_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1411 W Chestnut St, Tampa, FL 33607",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 688900,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 2192,
+    "images": [
+      "https://photos.zillowstatic.com/fp/a5dd93cc394a59936de9e7f6920e7616-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458381770",
+    "listingUrl": "/homedetails/1411-W-Chestnut-St-Tampa-FL-33607/458381770_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4510 S Manhattan Ave UNIT 22, Tampa, FL 33611",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 609050,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 2192,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ffa333dfbf517211cb7f58d793dc6bb3-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458381776",
+    "listingUrl": "/homedetails/4510-S-Manhattan-Ave-UNIT-22-Tampa-FL-33611/458381776_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1102 E Lambright St, Tampa, FL 33604",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 465000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1430,
+    "images": [
+      "https://photos.zillowstatic.com/fp/a3aa60b74f67eff31b088de7bd6fa345-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45097029",
+    "listingUrl": "/homedetails/1102-E-Lambright-St-Tampa-FL-33604/45097029_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2914 Trudy Ln, Tampa, FL 33611",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 417900,
+    "beds": 3,
+    "baths": 1,
+    "sqft": 1070,
+    "images": [
+      "https://photos.zillowstatic.com/fp/51f54a40ad711398543e844c7bad744f-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45067761",
+    "listingUrl": "/homedetails/2914-Trudy-Ln-Tampa-FL-33611/45067761_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "14540 Diplomat Dr, Tampa, FL 33613",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 400000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1466,
+    "images": [
+      "https://photos.zillowstatic.com/fp/7b1687ad8bc38107a4232d562eb1f367-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44893641",
+    "listingUrl": "/homedetails/14540-Diplomat-Dr-Tampa-FL-33613/44893641_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "806 Papaya Dr, Tampa, FL 33619",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 325000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1360,
+    "images": [
+      "https://photos.zillowstatic.com/fp/2e6de80954a83f240d7251d53bc964ae-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44938773",
+    "listingUrl": "/homedetails/806-Papaya-Dr-Tampa-FL-33619/44938773_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3226 Clifford Sample Dr, Tampa, FL 33619",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 310000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 792,
+    "images": [
+      "https://photos.zillowstatic.com/fp/1133e7d4eb1b2d0f41d091b15efedcdf-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44942362",
+    "listingUrl": "/homedetails/3226-Clifford-Sample-Dr-Tampa-FL-33619/44942362_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Plant Plan, Townes at Manhattan Crossing",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 629900,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 2192,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ffa333dfbf517211cb7f58d793dc6bb3-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "439714303",
+    "listingUrl": "/community/townes-at-manhattan-crossing/439714303_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3902 N Suwanee Ave, Tampa, FL 33603",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 414900,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1232,
+    "images": [
+      "https://photos.zillowstatic.com/fp/08e3ac0d14ab2f6568aebf480dcb3609-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45095026",
+    "listingUrl": "/homedetails/3902-N-Suwanee-Ave-Tampa-FL-33603/45095026_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "16302 Newbury Palms Ct, Tampa, FL 33647",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 319900,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1685,
+    "images": [
+      "https://photos.zillowstatic.com/fp/8e24c74c9e694f65fabe363bf0b21792-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "58434040",
+    "listingUrl": "/homedetails/16302-Newbury-Palms-Ct-Tampa-FL-33647/58434040_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4916 Eldorado Dr, Tampa, FL 33615",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 369900,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1020,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0eefd6e9547a8694c56b2a7738d56a8d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44876732",
+    "listingUrl": "/homedetails/4916-Eldorado-Dr-Tampa-FL-33615/44876732_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3120 W Coachman Ave, Tampa, FL 33611",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 650000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1192,
+    "images": [
+      "https://photos.zillowstatic.com/fp/fb5e93b3358c0d19180d307b06692265-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45060392",
+    "listingUrl": "/homedetails/3120-W-Coachman-Ave-Tampa-FL-33611/45060392_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "12401 Hibiscus Oak Pl APT 101, Tampa, FL 33612",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 119900,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 899,
+    "images": [
+      "https://photos.zillowstatic.com/fp/25e7bc58394522321e645bf40182932b-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "68586998",
+    "listingUrl": "/homedetails/12401-Hibiscus-Oak-Pl-APT-101-Tampa-FL-33612/68586998_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "13816 Stone Mill Way, Tampa, FL 33613",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 250000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1261,
+    "images": [
+      "https://photos.zillowstatic.com/fp/4b1e9e7c04ca1ac71e78272b0ee39d57-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44894770",
+    "listingUrl": "/homedetails/13816-Stone-Mill-Way-Tampa-FL-33613/44894770_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2101 E Ellicott St, Tampa, FL 33610",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 295000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1388,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ab685bd20ac99ac7ab1f55d1a052ee43-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45088270",
+    "listingUrl": "/homedetails/2101-E-Ellicott-St-Tampa-FL-33610/45088270_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "449 S 12th St UNIT 1804, Tampa, FL 33602",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 1250000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1733,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ebd2be47de5d7abb7bd2b4395786b3c8-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "82993383",
+    "listingUrl": "/homedetails/449-S-12th-St-UNIT-1804-Tampa-FL-33602/82993383_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2302 S Manhattan Ave APT 219, Tampa, FL 33629",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 245000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 875,
+    "images": [
+      "https://photos.zillowstatic.com/fp/2de6d7d9a9a1c8521b44fc8dd11451d6-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45052113",
+    "listingUrl": "/homedetails/2302-S-Manhattan-Ave-APT-219-Tampa-FL-33629/45052113_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4624 W San Jose St, Tampa, FL 33629",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 4745000,
+    "beds": 5,
+    "baths": 7,
+    "sqft": 6584,
+    "images": [
+      "https://photos.zillowstatic.com/fp/557d73a8ce604b8fa8217197fa838bbb-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45054210",
+    "listingUrl": "/homedetails/4624-W-San-Jose-St-Tampa-FL-33629/45054210_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1724 E Mulberry Dr, Tampa, FL 33604",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 165000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1040,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f528750491eb26391d1e187212063885-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45082595",
+    "listingUrl": "/homedetails/1724-E-Mulberry-Dr-Tampa-FL-33604/45082595_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Shearwater II-A Plan, AR Homes Tampa by Custom Craft",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 1177800,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 3431,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d6889bb9ed06c52783cac11e6cdcf7fd-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "450776032",
+    "listingUrl": "/community/ar-homes-tampa-by-custom-craft/450776032_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3203 E Emma St, Tampa, FL 33610",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 185000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1106,
+    "images": [
+      "https://photos.zillowstatic.com/fp/8aa2c25379c639ac382fbc5ffd5ffc6a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45087655",
+    "listingUrl": "/homedetails/3203-E-Emma-St-Tampa-FL-33610/45087655_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2531 W Watrous Ave, Tampa, FL 33629",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 1700000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2454,
+    "images": [
+      "https://photos.zillowstatic.com/fp/43d9b141a5216f5194d0806adcab4375-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "154935824",
+    "listingUrl": "/homedetails/2531-W-Watrous-Ave-Tampa-FL-33629/154935824_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6902 Lakeview Ct, Tampa, FL 33634",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 191000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1234,
+    "images": [
+      "https://photos.zillowstatic.com/fp/26fd75c78a317f3412f56cb7409256fc-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44863678",
+    "listingUrl": "/homedetails/6902-Lakeview-Ct-Tampa-FL-33634/44863678_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5615 N McKay Ave, Tampa, FL 33603",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 360000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1392,
+    "images": [
+      "https://photos.zillowstatic.com/fp/14df1e66974f0f3d6f73eab71e4d44c3-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45039784",
+    "listingUrl": "/homedetails/5615-N-McKay-Ave-Tampa-FL-33603/45039784_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6019 W Paris St, Tampa, FL 33634",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 5000,
+    "beds": 3,
+    "baths": 1,
+    "sqft": 1523,
+    "images": [
+      "https://photos.zillowstatic.com/fp/643db026a4055b2711fad56b26794fad-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44916332",
+    "listingUrl": "/homedetails/6019-W-Paris-St-Tampa-FL-33634/44916332_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "312 N Lincoln Ave, Tampa, FL 33609",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 350000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 936,
+    "images": [
+      "https://photos.zillowstatic.com/fp/956c4b0157562658d34368b123d220e4-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45049063",
+    "listingUrl": "/homedetails/312-N-Lincoln-Ave-Tampa-FL-33609/45049063_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2424 W Tampa Bay Blvd APT I102, Tampa, FL 33607",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 240000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 792,
+    "images": [
+      "https://photos.zillowstatic.com/fp/8bc586ccfbdac891ffb2a804014a1168-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45102077",
+    "listingUrl": "/homedetails/2424-W-Tampa-Bay-Blvd-APT-I102-Tampa-FL-33607/45102077_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8315 N 14th St, Tampa, FL 33604",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 165000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 970,
+    "images": [
+      "https://photos.zillowstatic.com/fp/dc2578c472c32337dfb96d9770a852a7-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45079349",
+    "listingUrl": "/homedetails/8315-N-14th-St-Tampa-FL-33604/45079349_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3301 Bayshore Blvd UNIT 604D, Tampa, FL 33629",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 1100000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2007,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d41b730ed61d17136bb7fb737922e5fc-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45059613",
+    "listingUrl": "/homedetails/3301-Bayshore-Blvd-UNIT-604D-Tampa-FL-33629/45059613_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1322 W Knollwood St, Tampa, FL 33604",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 449000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1736,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b97c5ef683b652deb47af801373dcc4a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45040250",
+    "listingUrl": "/homedetails/1322-W-Knollwood-St-Tampa-FL-33604/45040250_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4636 W Longfellow Ave, Tampa, FL 33629",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 899999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2454,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d4043791bc5a0c8f3035c82308a609d9-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45055209",
+    "listingUrl": "/homedetails/4636-W-Longfellow-Ave-Tampa-FL-33629/45055209_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2511 N Grady Ave #59, Tampa, FL 33607",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 689000,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 2038,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b0bcf0f04a589a200fd1edfcea480405-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "306962697",
+    "listingUrl": "/homedetails/2511-N-Grady-Ave-59-Tampa-FL-33607/306962697_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5701 Bowen Daniel Dr #302, Tampa, FL 33616",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 1650000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 2344,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b17d66bf3ae21140c81038f207984df5-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "2054207894",
+    "listingUrl": "/homedetails/5701-Bowen-Daniel-Dr-302-Tampa-FL-33616/2054207894_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5701 Bowen Daniel Dr #403, Tampa, FL 33616",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 1790000,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 2411,
+    "images": [
+      "https://photos.zillowstatic.com/fp/80970c5f01a9a802da5537f95671b957-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458299451",
+    "listingUrl": "/homedetails/5701-Bowen-Daniel-Dr-403-Tampa-FL-33616/458299451_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6507 Los Altos Way, Tampa, FL 33634",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 375000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1314,
+    "images": [
+      "https://photos.zillowstatic.com/fp/7996b8377d131237bb4c9377b3fbf9f0-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "44874523",
+    "listingUrl": "/homedetails/6507-Los-Altos-Way-Tampa-FL-33634/44874523_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3513 N 15th St, Tampa, FL 33605",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 575000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1269,
+    "images": [
+      "https://photos.zillowstatic.com/fp/fdf147f285df8b2eddf44350aa1197fe-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "45099117",
+    "listingUrl": "/homedetails/3513-N-15th-St-Tampa-FL-33605/45099117_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8441 Tocoi Path, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 489000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2668,
+    "images": [
+      "https://photos.zillowstatic.com/fp/de7afd1e1de75b1021e635acce44a14c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "66196172",
+    "listingUrl": "/homedetails/8441-Tocoi-Path-Lakeland-FL-33810/66196172_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4553 Dewsbury Ct #800, Lakeland, FL 33801",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 129500,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1848,
+    "images": [
+      "https://photos.zillowstatic.com/fp/4a83c4dd08d8ebe6dfbf838226bb76dc-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "364796107",
+    "listingUrl": "/homedetails/4553-Dewsbury-Ct-800-Lakeland-FL-33801/364796107_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4286 Cattail Marsh Dr, Lakeland, FL 33811",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 407475,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2135,
+    "images": [
+      "https://photos.zillowstatic.com/fp/24b02223c56ce6caca3078a58bf0bd26-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458374842",
+    "listingUrl": "/homedetails/4286-Cattail-Marsh-Dr-Lakeland-FL-33811/458374842_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3915 Shady Oak Dr E, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 0,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1453,
+    "images": [
+      "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=28.092161178588867,-82.04747009277344&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=16sue7-9EO2Ru1Cg1kahpM2Z77o="
+    ],
+    "imageCount": 21,
+    "zpid": "47413546",
+    "listingUrl": "/homedetails/3915-Shady-Oak-Dr-E-Lakeland-FL-33810/47413546_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "922 Bonnie Dr, Lakeland, FL 33803",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 298600,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1311,
+    "images": [
+      "https://photos.zillowstatic.com/fp/25f32e18abd79b8be09970833b04dac4-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "55132337",
+    "listingUrl": "/homedetails/922-Bonnie-Dr-Lakeland-FL-33803/55132337_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5658 Fischer Dr, Lakeland, FL 33812",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 370000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1859,
+    "images": [
+      "https://photos.zillowstatic.com/fp/990452340fc8d6131832a004a274514c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "68616327",
+    "listingUrl": "/homedetails/5658-Fischer-Dr-Lakeland-FL-33812/68616327_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2611 Berkeley Ave, Lakeland, FL 33803",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 1295000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3380,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d3ee4aa8e9c61423f4630b351bb5dbe5-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458298002",
+    "listingUrl": "/homedetails/2611-Berkeley-Ave-Lakeland-FL-33803/458298002_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5238 Upland Pl, Lakeland, FL 33813",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 649900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2357,
+    "images": [
+      "https://photos.zillowstatic.com/fp/2d2935c152527ea4a4e1fbb895adba61-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47325019",
+    "listingUrl": "/homedetails/5238-Upland-Pl-Lakeland-FL-33813/47325019_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2113 Sunny Sprig St, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 366820,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1819,
+    "images": [
+      "https://photos.zillowstatic.com/fp/5f80b99b3dff030eb466f59fe18091a7-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458300514",
+    "listingUrl": "/homedetails/2113-Sunny-Sprig-St-Lakeland-FL-33810/458300514_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2105 Sunny Sprig St, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 379715,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2005,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ff577ffb1a4363a3a9c910e9919a42e5-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458300497",
+    "listingUrl": "/homedetails/2105-Sunny-Sprig-St-Lakeland-FL-33810/458300497_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2121 Sunny Sprig St, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 385775,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2029,
+    "images": [
+      "https://photos.zillowstatic.com/fp/980e34efe4595996fc0a635ccff34d98-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458300501",
+    "listingUrl": "/homedetails/2121-Sunny-Sprig-St-Lakeland-FL-33810/458300501_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "248 Lindale St, Lakeland, FL 33809",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 320000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1490,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0953e20f4a0f07ef8ad6b24fecb2192d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47341869",
+    "listingUrl": "/homedetails/248-Lindale-St-Lakeland-FL-33809/47341869_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1600 W Lake Parker Dr APT D5, Lakeland, FL 33805",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 130990,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 816,
+    "images": [
+      "https://photos.zillowstatic.com/fp/c9c030c6617960b01c0f6fc440f7de88-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47317811",
+    "listingUrl": "/homedetails/1600-W-Lake-Parker-Dr-APT-D5-Lakeland-FL-33805/47317811_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2259 Grand Cypress Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 284000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1665,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0db4d800f2c80eb7b2eb4a62f89fb87a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47423833",
+    "listingUrl": "/homedetails/2259-Grand-Cypress-Dr-Lakeland-FL-33810/47423833_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "DOWNING Plan, Millstone",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 282990,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1302,
+    "images": [
+      "https://photos.zillowstatic.com/fp/1a8de1eae573164c13125b31fa300884-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "450620520",
+    "listingUrl": "/community/millstone/450620520_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Harmony Plan, Magnolia Estates",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 445500,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2471,
+    "images": [
+      "https://photos.zillowstatic.com/fp/cccf8c8266a30d4b1bf74b5d4a72f718-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "442250855",
+    "listingUrl": "/community/magnolia-estates/442250855_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "ARIA Plan, Fox Branch",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 327990,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1672,
+    "images": [
+      "https://photos.zillowstatic.com/fp/5b0664156e9c6ee0e0fd56290c942bda-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458022582",
+    "listingUrl": "/community/fox-branch/458022582_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "7163 Cruz Ct, Lakeland, FL 33813",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 335000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1696,
+    "images": [
+      "https://photos.zillowstatic.com/fp/fa5bb9a01314496ad85b3427705c1e0e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "2057850399",
+    "listingUrl": "/homedetails/7163-Cruz-Ct-Lakeland-FL-33813/2057850399_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "825 Vistabula St, Lakeland, FL 33801",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 425000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1451,
+    "images": [
+      "https://photos.zillowstatic.com/fp/9271e0da24094d5d854b54a990e973e9-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47366050",
+    "listingUrl": "/homedetails/825-Vistabula-St-Lakeland-FL-33801/47366050_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "669 Bald Cypress Dr, Lakeland, FL 33801",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 359490,
+    "beds": 6,
+    "baths": 3,
+    "sqft": 2463,
+    "images": [
+      "https://photos.zillowstatic.com/fp/57c9db0a318e4505d4946a6a67ce1ffc-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458289178",
+    "listingUrl": "/homedetails/669-Bald-Cypress-Dr-Lakeland-FL-33801/458289178_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6389 Evergreen Meadows Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 384565,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2005,
+    "images": [
+      "https://photos.zillowstatic.com/fp/c67f05839a6947230b5e6124a9448c1d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458289156",
+    "listingUrl": "/homedetails/6389-Evergreen-Meadows-Dr-Lakeland-FL-33810/458289156_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Jefferson Plan, Ivywood",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 419990,
+    "beds": 6,
+    "baths": 3,
+    "sqft": 2463,
+    "images": [
+      "https://photos.zillowstatic.com/fp/21667d5fdb5504558f9e5d501f827d0c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "456329929",
+    "listingUrl": "/community/ivywood/456329929_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2234 Sea Island Cir N, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 199900,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1166,
+    "images": [
+      "https://photos.zillowstatic.com/fp/49b317dd3d5d401415103edae92881bb-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47302881",
+    "listingUrl": "/homedetails/2234-Sea-Island-Cir-N-Lakeland-FL-33810/47302881_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3003 Chasewood Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 300000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1358,
+    "images": [
+      "https://photos.zillowstatic.com/fp/3a6c6769fe6bd0933d13725463f16331-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "54522100",
+    "listingUrl": "/homedetails/3003-Chasewood-Dr-Lakeland-FL-33810/54522100_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2371 Victory Ridge Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 344435,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1545,
+    "images": [
+      "https://photos.zillowstatic.com/fp/3381ed1998705e974d8c2694e84b1eb7-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458272321",
+    "listingUrl": "/homedetails/2371-Victory-Ridge-Dr-Lakeland-FL-33810/458272321_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6397 Evergreen Meadows Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 359735,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1715,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0853ca1032ad176eacc7f356bded732d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458272322",
+    "listingUrl": "/homedetails/6397-Evergreen-Meadows-Dr-Lakeland-FL-33810/458272322_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2275 Victory Ridge Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 363070,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1715,
+    "images": [
+      "https://photos.zillowstatic.com/fp/dbeb0e132a8bfb3b555553055cf41c51-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458272323",
+    "listingUrl": "/homedetails/2275-Victory-Ridge-Dr-Lakeland-FL-33810/458272323_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2338 Victory Ridge Dr, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 350170,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1545,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b187bb7eaa3d63f5c5abdf0d04adccb1-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458272324",
+    "listingUrl": "/homedetails/2338-Victory-Ridge-Dr-Lakeland-FL-33810/458272324_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6607 Flowering Shrub St, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 354700,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1644,
+    "images": [
+      "https://photos.zillowstatic.com/fp/af22849249c58e8915e4b170c092c0c4-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458272325",
+    "listingUrl": "/homedetails/6607-Flowering-Shrub-St-Lakeland-FL-33810/458272325_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5821 Buck Run Dr, Lakeland, FL 33811",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 284900,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 2080,
+    "images": [
+      "https://photos.zillowstatic.com/fp/54150e1691f2cd370dcb5e6f21974445-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47349148",
+    "listingUrl": "/homedetails/5821-Buck-Run-Dr-Lakeland-FL-33811/47349148_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Westin II Plan, Keen's Grove",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 426900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2314,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b7bbf78175b5263058a526ba4128178e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "453620493",
+    "listingUrl": "/community/keen-s-grove/453620493_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8571 Cape Fox Cv, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 318990,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1504,
+    "images": [
+      "https://photos.zillowstatic.com/fp/553e23eb27e9f6c176b1436d36152997-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458269300",
+    "listingUrl": "/homedetails/8571-Cape-Fox-Cv-Lakeland-FL-33810/458269300_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8553 Cape Fox Cv, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 351990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "images": [
+      "https://photos.zillowstatic.com/fp/69eea9fdf5c7c0dc3842f6dad9354a07-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458269302",
+    "listingUrl": "/homedetails/8553-Cape-Fox-Cv-Lakeland-FL-33810/458269302_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8547 Cape Fox Cv, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 371990,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 2077,
+    "images": [
+      "https://photos.zillowstatic.com/fp/16959afb6225b2dacb2ba3b2592fb858-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458269303",
+    "listingUrl": "/homedetails/8547-Cape-Fox-Cv-Lakeland-FL-33810/458269303_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8577 Cape Fox Cv, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 328990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1665,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ee00fa7345778a7d4200be6e1366b6dc-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458269304",
+    "listingUrl": "/homedetails/8577-Cape-Fox-Cv-Lakeland-FL-33810/458269304_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2525 Ranchland Acres Rd, Lakeland, FL 33809",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 980000,
+    "beds": 5,
+    "baths": 6,
+    "sqft": 4147,
+    "images": [
+      "https://photos.zillowstatic.com/fp/c3d2afe65eb2ee5fdb378c636985bacf-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "55128991",
+    "listingUrl": "/homedetails/2525-Ranchland-Acres-Rd-Lakeland-FL-33809/55128991_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8437 Fox Den Cv, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 464200,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2313,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f6a3a84ca15809f57ec4175a6842ce3d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458261654",
+    "listingUrl": "/homedetails/8437-Fox-Den-Cv-Lakeland-FL-33810/458261654_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4215 S B Merrion Rd, Lakeland, FL 33810",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 3500000,
+    "beds": 5,
+    "baths": 7,
+    "sqft": 6271,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f09d9d8a23cdc21a09d954495b452951-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "118312884",
+    "listingUrl": "/homedetails/4215-S-B-Merrion-Rd-Lakeland-FL-33810/118312884_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "8720 State Road 33 N, Lakeland, FL 33809",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 385000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 820,
+    "images": [
+      "https://photos.zillowstatic.com/fp/1ae043cbe9e8b672b8e1df637f16f945-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458229440",
+    "listingUrl": "/homedetails/8720-State-Road-33-N-Lakeland-FL-33809/458229440_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "867 Hanover Way, Lakeland, FL 33813",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 753500,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2955,
+    "images": [
+      "https://photos.zillowstatic.com/fp/2d07de4b4cfcf3429b18ba582a8e64af-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47320134",
+    "listingUrl": "/homedetails/867-Hanover-Way-Lakeland-FL-33813/47320134_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1526 E Edgewood Dr, Lakeland, FL 33803",
+    "city": "Lakeland",
+    "state": "FL",
+    "price": 290000,
+    "beds": 3,
+    "baths": 1,
+    "sqft": 1064,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b8700a5250d2d8ae9d800e34b9d38aa9-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "47407390",
+    "listingUrl": "/homedetails/1526-E-Edgewood-Dr-Lakeland-FL-33803/47407390_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "11018 Leafshore Loop, Orlando, FL 32829",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 398950,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1620,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b59a5682af5b0e232d674b7c9abe96c2-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "453305288",
+    "listingUrl": "/homedetails/11018-Leafshore-Loop-Orlando-FL-32829/453305288_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3948 Green Sabal Dr, Orlando, FL 32824",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 590000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2980,
+    "images": [
+      "https://photos.zillowstatic.com/fp/27af4820a44d7073e0fd4ce1eb869b33-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "247134464",
+    "listingUrl": "/homedetails/3948-Green-Sabal-Dr-Orlando-FL-32824/247134464_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "14013 Fairway Island Dr APT 415, Orlando, FL 32837",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 220000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1020,
+    "images": [
+      "https://photos.zillowstatic.com/fp/8d2cf4e8cd92ea29a70066bfd48d68d1-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71088740",
+    "listingUrl": "/homedetails/14013-Fairway-Island-Dr-APT-415-Orlando-FL-32837/71088740_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4715 Beach Blvd, Orlando, FL 32803",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 1950000,
+    "beds": 5,
+    "baths": 5,
+    "sqft": 7323,
+    "images": [
+      "https://photos.zillowstatic.com/fp/113b3b6e0e03900c736797c4698707a6-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46167013",
+    "listingUrl": "/homedetails/4715-Beach-Blvd-Orlando-FL-32803/46167013_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "724 Edgewater Dr, Orlando, FL 32804",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 300000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1190,
+    "images": [
+      "https://photos.zillowstatic.com/fp/12fbd60b00d85fa9ce241a65ebbd5b10-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "2104230717",
+    "listingUrl": "/homedetails/724-Edgewater-Dr-Orlando-FL-32804/2104230717_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3545 Shallot Dr UNIT 106, Orlando, FL 32835",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 305000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1546,
+    "images": [
+      "https://photos.zillowstatic.com/fp/89dbfe0bbb5f7ca786d0e9db82f5097e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "64586621",
+    "listingUrl": "/homedetails/3545-Shallot-Dr-UNIT-106-Orlando-FL-32835/64586621_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "7824 Copperfield Ct, Orlando, FL 32825",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 240000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 991,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ea9ad7d07bc6a0622d6ff6b3c5307ef0-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46203018",
+    "listingUrl": "/homedetails/7824-Copperfield-Ct-Orlando-FL-32825/46203018_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "6663 Queens Borough Ave APT 108, Orlando, FL 32835",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 190000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1107,
+    "images": [
+      "https://photos.zillowstatic.com/fp/e0e989e58200bd4eb5c4b86d893f450a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71078801",
+    "listingUrl": "/homedetails/6663-Queens-Borough-Ave-APT-108-Orlando-FL-32835/71078801_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3276 Chroma St, Orlando, FL 32824",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 419990,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1673,
+    "images": [
+      "https://photos.zillowstatic.com/fp/07a12d1c4d8f4a0a34d81e4a9b04b114-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "458377408",
+    "listingUrl": "/homedetails/3276-Chroma-St-Orlando-FL-32824/458377408_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "101 S Eola Dr UNIT 610, Orlando, FL 32801",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 305000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1198,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f0a2d3149d3698abefea0e434aa804ea-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "84651261",
+    "listingUrl": "/homedetails/101-S-Eola-Dr-UNIT-610-Orlando-FL-32801/84651261_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "10616 Godfrey Ln, Orlando, FL 32825",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 325000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1719,
+    "images": [
+      "https://photos.zillowstatic.com/fp/934c9100c7122ab93b9803bc62a64eb4-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46162732",
+    "listingUrl": "/homedetails/10616-Godfrey-Ln-Orlando-FL-32825/46162732_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "235 Crabtree Ave, Orlando, FL 32835",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 290000,
+    "beds": 3,
+    "baths": 1,
+    "sqft": 1192,
+    "images": [
+      "https://photos.zillowstatic.com/fp/70b04a00e326dd3780c1dcaaf9a8910a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46265994",
+    "listingUrl": "/homedetails/235-Crabtree-Ave-Orlando-FL-32835/46265994_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Rockmoor Plan, Laureate Park at Lake Nona",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 845990,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3413,
+    "images": [
+      "https://photos.zillowstatic.com/fp/4430b36ce3586247e5b082fe5309b8e0-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "451074419",
+    "listingUrl": "/community/laureate-park-at-lake-nona/451074419_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3726 Palm Desert Ln APT 5234, Orlando, FL 32839",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 189000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1062,
+    "images": [
+      "https://photos.zillowstatic.com/fp/6dc0ab2210b67603ac81cd7b286068b5-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "82106414",
+    "listingUrl": "/homedetails/3726-Palm-Desert-Ln-APT-5234-Orlando-FL-32839/82106414_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "7395 Universal Blvd #701, Orlando, FL 32819",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 299500,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1056,
+    "images": [
+      "https://photos.zillowstatic.com/fp/6b68903b3cd5dceababb446f50a550ef-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "294885648",
+    "listingUrl": "/homedetails/7395-Universal-Blvd-701-Orlando-FL-32819/294885648_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2942 Mystic Cove Dr, Orlando, FL 32812",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 450000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2113,
+    "images": [
+      "https://photos.zillowstatic.com/fp/962472df89d6ea406dcd544cd26dcdc8-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46057507",
+    "listingUrl": "/homedetails/2942-Mystic-Cove-Dr-Orlando-FL-32812/46057507_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "13103 Edberg Ct, Orlando, FL 32824",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 285000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1248,
+    "images": [
+      "https://photos.zillowstatic.com/fp/201767feb7fe02bd18afed1a9404ad30-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46198657",
+    "listingUrl": "/homedetails/13103-Edberg-Ct-Orlando-FL-32824/46198657_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "10982 Savannah Wood Dr #156, Orlando, FL 32832",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 350000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1071,
+    "images": [
+      "https://photos.zillowstatic.com/fp/353c8eb7c8ff9afdd9ac34828fe129eb-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71075857",
+    "listingUrl": "/homedetails/10982-Savannah-Wood-Dr-156-Orlando-FL-32832/71075857_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "923 W Oak Ridge Rd #923D, Orlando, FL 32809",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 129990,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 895,
+    "images": [
+      "https://photos.zillowstatic.com/fp/bfd6e8d08aab4b9e3acd1e9884f7b62b-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "456022803",
+    "listingUrl": "/homedetails/923-W-Oak-Ridge-Rd-923D-Orlando-FL-32809/456022803_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "10408 Chorlton Cir, Orlando, FL 32832",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 879000,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 3566,
+    "images": [
+      "https://photos.zillowstatic.com/fp/2d4fead19e0adffdc39ad67655f2f713-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71066621",
+    "listingUrl": "/homedetails/10408-Chorlton-Cir-Orlando-FL-32832/71066621_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1932 Lake Atriums Cir APT 74, Orlando, FL 32839",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 139000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 864,
+    "images": [
+      "https://photos.zillowstatic.com/fp/09872100f980c0f79ef7ce474631d597-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71084943",
+    "listingUrl": "/homedetails/1932-Lake-Atriums-Cir-APT-74-Orlando-FL-32839/71084943_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "999 Juel St, Orlando, FL 32814",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 679000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1950,
+    "images": [
+      "https://photos.zillowstatic.com/fp/eec20ba407cc8b4bfd5d6ab744429c37-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "60328908",
+    "listingUrl": "/homedetails/999-Juel-St-Orlando-FL-32814/60328908_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "730 Park Manor Dr, Orlando, FL 32825",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 429990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1545,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d25b1c36e6a626a24deb3badb10d9058-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46222913",
+    "listingUrl": "/homedetails/730-Park-Manor-Dr-Orlando-FL-32825/46222913_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "10061 Dulbecco St, Orlando, FL 32827",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 619990,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1976,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0dd4d8401afbfd83e9313d8370541965-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452974528",
+    "listingUrl": "/homedetails/10061-Dulbecco-St-Orlando-FL-32827/452974528_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1515 20th St, Orlando, FL 32805",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 170000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1056,
+    "images": [
+      "https://photos.zillowstatic.com/fp/3929333631545cddfc0a27f21b63bb21-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46048244",
+    "listingUrl": "/homedetails/1515-20th-St-Orlando-FL-32805/46048244_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "15834 Woodland Spring Ct, Orlando, FL 32828",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 368500,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1759,
+    "images": [
+      "https://photos.zillowstatic.com/fp/496c6dbbd8ae8720fd39844d2ed62c4f-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "82108064",
+    "listingUrl": "/homedetails/15834-Woodland-Spring-Ct-Orlando-FL-32828/82108064_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "3577 Wilshire Way Rd #61, Orlando, FL 32829",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 250000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1071,
+    "images": [
+      "https://photos.zillowstatic.com/fp/239bbaa4149fb12ef8222b2c1891afa9-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71094265",
+    "listingUrl": "/homedetails/3577-Wilshire-Way-Rd-61-Orlando-FL-32829/71094265_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "10713 Berry Creek Rd, Orlando, FL 32836",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 824000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2744,
+    "images": [
+      "https://photos.zillowstatic.com/fp/fe0429bcb4478c68e81ebdad657e6133-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "190921425",
+    "listingUrl": "/homedetails/10713-Berry-Creek-Rd-Orlando-FL-32836/190921425_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "513 Hardwood Cir, Orlando, FL 32828",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 420000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1451,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0ad44268fe9680a0569b4df7d813682c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46197965",
+    "listingUrl": "/homedetails/513-Hardwood-Cir-Orlando-FL-32828/46197965_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "(undisclosed Address), Orlando, FL 32801",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 180000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 642,
+    "images": [
+      "https://photos.zillowstatic.com/fp/911136c1e1b15046b2187e456a1615d6-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71073492",
+    "listingUrl": "/homedetails/Orlando-FL-32801/71073492_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "5040 Park Central Dr APT 2011, Orlando, FL 32839",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 197000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 874,
+    "images": [
+      "https://photos.zillowstatic.com/fp/679e4a13755c74ca28d1094477eeee6e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71085693",
+    "listingUrl": "/homedetails/5040-Park-Central-Dr-APT-2011-Orlando-FL-32839/71085693_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2048 Waterleaf St, Orlando, FL 32837",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 280000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 1094,
+    "images": [
+      "https://photos.zillowstatic.com/fp/81c1a60219f2e72d4f069cbb7cca2488-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46142693",
+    "listingUrl": "/homedetails/2048-Waterleaf-St-Orlando-FL-32837/46142693_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2401 Mayer St, Orlando, FL 32806",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 400000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1232,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b9f9086bf0315f5e466f536b9a46cd23-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "99717472",
+    "listingUrl": "/homedetails/2401-Mayer-St-Orlando-FL-32806/99717472_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1951 S Crystal Lake Dr, Orlando, FL 32806",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 529900,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1435,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d455a7e7193c2dbf5e9ab4953bc17c7c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46065112",
+    "listingUrl": "/homedetails/1951-S-Crystal-Lake-Dr-Orlando-FL-32806/46065112_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "13139 Hatherton Cir, Orlando, FL 32832",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 750000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3683,
+    "images": [
+      "https://photos.zillowstatic.com/fp/866bf038b8bad9ef7bcc1ab52b355a70-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "84652483",
+    "listingUrl": "/homedetails/13139-Hatherton-Cir-Orlando-FL-32832/84652483_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "13210 Meadowfield Dr, Orlando, FL 32824",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 325000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1400,
+    "images": [
+      "https://photos.zillowstatic.com/fp/d4ff84885172c3151b9e75f07bce2ab8-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46198754",
+    "listingUrl": "/homedetails/13210-Meadowfield-Dr-Orlando-FL-32824/46198754_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4312 Lake Underhill Rd #19, Orlando, FL 32803",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 189000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1000,
+    "images": [
+      "https://photos.zillowstatic.com/fp/3a14ab39cdcea5297682574e331524aa-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "449332826",
+    "listingUrl": "/homedetails/4312-Lake-Underhill-Rd-19-Orlando-FL-32803/449332826_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2944 Plaza Terrace Dr #2944, Orlando, FL 32803",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 225000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 663,
+    "images": [
+      "https://photos.zillowstatic.com/fp/9cfd271376b645c779ba3aac0cb85329-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "66194441",
+    "listingUrl": "/homedetails/2944-Plaza-Terrace-Dr-2944-Orlando-FL-32803/66194441_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4231 Inwood Landing Dr, Orlando, FL 32812",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 648000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2340,
+    "images": [
+      "https://photos.zillowstatic.com/fp/a12bb1ed487e0a54fa195a5f6dc52e96-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46084533",
+    "listingUrl": "/homedetails/4231-Inwood-Landing-Dr-Orlando-FL-32812/46084533_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "4825 Charowen Dr, Orlando, FL 32837",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 615000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2336,
+    "images": [
+      "https://photos.zillowstatic.com/fp/2143b89b0eb75183292d1a41014ec2b5-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "46244020",
+    "listingUrl": "/homedetails/4825-Charowen-Dr-Orlando-FL-32837/46244020_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1019 S Hiawassee Rd APT 3822, Orlando, FL 32835",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 128888,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 934,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b3a754011d25117711f981166af00bc4-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "71078410",
+    "listingUrl": "/homedetails/1019-S-Hiawassee-Rd-APT-3822-Orlando-FL-32835/71078410_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2215 Green Valley St, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 352990,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 2112,
+    "images": [
+      "https://photos.zillowstatic.com/fp/430c5f3e55f15fad8abd838f9d9561a1-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452252501",
+    "listingUrl": "/homedetails/2215-Green-Valley-St-Daytona-Beach-FL-32124/452252501_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1213 Pampus Dr, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 459630,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2830,
+    "images": [
+      "https://photos.zillowstatic.com/fp/ac36fc4912ba0e4f2d78ecbef8e9498d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452215278",
+    "listingUrl": "/homedetails/1213-Pampus-Dr-Daytona-Beach-FL-32124/452215278_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "231 Riverside Dr UNIT 608, Daytona Beach, FL 32117",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 315000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1537,
+    "images": [
+      "https://photos.zillowstatic.com/fp/a4d504af821921dc15696259ee45e638-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "2064394779",
+    "listingUrl": "/homedetails/231-Riverside-Dr-UNIT-608-Daytona-Beach-FL-32117/2064394779_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "425 Champion Ridge Dr, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 387700,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1799,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f51c1b38d86049942e6052e7c88ffdd3-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "82621336",
+    "listingUrl": "/homedetails/425-Champion-Ridge-Dr-Daytona-Beach-FL-32124/82621336_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "784 Coral Reef Way, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 564900,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1558,
+    "images": [
+      "https://photos.zillowstatic.com/fp/77f528fd73bb5a4b44ca19d03adda6a1-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452250600",
+    "listingUrl": "/homedetails/784-Coral-Reef-Way-Daytona-Beach-FL-32124/452250600_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Breckenridge Plan, Mosaic",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 1030900,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3999,
+    "images": [
+      "https://photos.zillowstatic.com/fp/10576c180d885bfc9d3147b62157296c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "454043747",
+    "listingUrl": "/community/mosaic/454043747_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2200 N Atlantic Ave APT 1502, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 665000,
+    "beds": 2,
+    "baths": 3,
+    "sqft": 2420,
+    "images": [
+      "https://photos.zillowstatic.com/fp/7822a4a88834db6488e9cb71b821966d-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48008845",
+    "listingUrl": "/homedetails/2200-N-Atlantic-Ave-APT-1502-Daytona-Beach-FL-32118/48008845_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1099 Morfontain St, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 364990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b379b38aa997285ecd2698a8c35be42b-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452186815",
+    "listingUrl": "/homedetails/1099-Morfontain-St-Daytona-Beach-FL-32124/452186815_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "313 S Atlantic Ave #205 & 207, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 185000,
+    "beds": 1,
+    "baths": 2,
+    "sqft": 691,
+    "images": [
+      "https://photos.zillowstatic.com/fp/c9523425f9c8ce03d6bdc082dff3802e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "2059473439",
+    "listingUrl": "/homedetails/313-S-Atlantic-Ave-205-207-Daytona-Beach-FL-32118/2059473439_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "112 La Costa Ln #115, Daytona Beach, FL 32114",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 118000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 703,
+    "images": [
+      "https://photos.zillowstatic.com/fp/e316e768be481e9b72282a55e777e146-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48021359",
+    "listingUrl": "/homedetails/112-La-Costa-Ln-115-Daytona-Beach-FL-32114/48021359_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "800 N Atlantic Ave #614, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 189900,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 530,
+    "images": [
+      "https://photos.zillowstatic.com/fp/3270e4b0b96cc12348935da9af060003-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48032100",
+    "listingUrl": "/homedetails/800-N-Atlantic-Ave-614-Daytona-Beach-FL-32118/48032100_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "513 Pelican Bay Dr, Daytona Beach, FL 32119",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 488000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2256,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b0f660f653d79108fa7d690a439f89dd-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48022496",
+    "listingUrl": "/homedetails/513-Pelican-Bay-Dr-Daytona-Beach-FL-32119/48022496_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "717 S Beach St APT 205C, Daytona Beach, FL 32114",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 139900,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 715,
+    "images": [
+      "https://photos.zillowstatic.com/fp/7a9267bed35c8fea3fc50125cbaebe50-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48045374",
+    "listingUrl": "/homedetails/717-S-Beach-St-APT-205C-Daytona-Beach-FL-32114/48045374_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Juliette II Plan, Mosaic",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 557900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2301,
+    "images": [
+      "https://photos.zillowstatic.com/fp/6557d735763891ced2b8bb15243ebc18-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "2056060771",
+    "listingUrl": "/community/mosaic/2056060771_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "141 Aston Grande Dr, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 303000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1508,
+    "images": [
+      "https://photos.zillowstatic.com/fp/273c31d2ec5c2481a4d4d36a9951638e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "104226710",
+    "listingUrl": "/homedetails/141-Aston-Grande-Dr-Daytona-Beach-FL-32124/104226710_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "173 Coral Reef Way, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 680000,
+    "beds": 3,
+    "baths": 4,
+    "sqft": 2575,
+    "images": [
+      "https://photos.zillowstatic.com/fp/bfd5fa74e7f0ea0ad15c3ee71aedb555-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "252439038",
+    "listingUrl": "/homedetails/173-Coral-Reef-Way-Daytona-Beach-FL-32124/252439038_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "2700 N Atlantic Ave #205, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 124900,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 640,
+    "images": [
+      "https://photos.zillowstatic.com/fp/aa1d4eef9eafbae0783c1682972e1a1e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "58319176",
+    "listingUrl": "/homedetails/2700-N-Atlantic-Ave-205-Daytona-Beach-FL-32118/58319176_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1119 Edith Dr, Daytona Beach, FL 32117",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 269000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1481,
+    "images": [
+      "https://photos.zillowstatic.com/fp/bf8c8bcdca9fa44125953ef33c991284-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48020595",
+    "listingUrl": "/homedetails/1119-Edith-Dr-Daytona-Beach-FL-32117/48020595_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "Cali Plan, Ironwood",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 371990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f83eebab62a4dac553191cf911c0d810-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "450111984",
+    "listingUrl": "/community/ironwood/450111984_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "118 S Halifax Ave APT 210, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 179999,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 973,
+    "images": [
+      "https://photos.zillowstatic.com/fp/c9a2e7457976e34b160f4ee3a3585111-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48033055",
+    "listingUrl": "/homedetails/118-S-Halifax-Ave-APT-210-Daytona-Beach-FL-32118/48033055_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "800 N Atlantic Ave #507, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 135000,
+    "beds": 0,
+    "baths": 1,
+    "sqft": 515,
+    "images": [
+      "https://photos.zillowstatic.com/fp/bd8c8191bb657aabac4abf243a8a540a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48032068",
+    "listingUrl": "/homedetails/800-N-Atlantic-Ave-507-Daytona-Beach-FL-32118/48032068_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "400 Auburn Dr APT 2, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 105000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 945,
+    "images": [
+      "https://photos.zillowstatic.com/fp/480a42d0b97b4ef2b9e7f600f423e0a1-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48008809",
+    "listingUrl": "/homedetails/400-Auburn-Dr-APT-2-Daytona-Beach-FL-32118/48008809_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "546 Margaritaville Ave, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 529000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1848,
+    "images": [
+      "https://photos.zillowstatic.com/fp/e96fa5529e1b8f26ca524ef0422af078-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452250155",
+    "listingUrl": "/homedetails/546-Margaritaville-Ave-Daytona-Beach-FL-32124/452250155_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1601 Big Tree Rd APT 1205, South Daytona, FL 32119",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 122000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 864,
+    "images": [
+      "https://photos.zillowstatic.com/fp/e315314783dc642728b53a85c43aea9b-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48040176",
+    "listingUrl": "/homedetails/1601-Big-Tree-Rd-APT-1205-South-Daytona-FL-32119/48040176_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1119 Morfontain St, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 421990,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 2601,
+    "images": [
+      "https://photos.zillowstatic.com/fp/0e345bdb086dbeeb01424e4a6ddcbc56-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "452186810",
+    "listingUrl": "/homedetails/1119-Morfontain-St-Daytona-Beach-FL-32124/452186810_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "324 Plaza Blvd, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 399900,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1753,
+    "images": [
+      "https://photos.zillowstatic.com/fp/09f0f8ebb2287d52afd1a5a6640360d9-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48007529",
+    "listingUrl": "/homedetails/324-Plaza-Blvd-Daytona-Beach-FL-32118/48007529_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "800 N Atlantic Ave #201, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 120000,
+    "beds": 0,
+    "baths": 1,
+    "sqft": 530,
+    "images": [
+      "https://photos.zillowstatic.com/fp/f056884e78238629241895f7a48d63b9-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48032004",
+    "listingUrl": "/homedetails/800-N-Atlantic-Ave-201-Daytona-Beach-FL-32118/48032004_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "901 Barnacle Bay Ct, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 639900,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2394,
+    "images": [
+      "https://photos.zillowstatic.com/fp/fcfd8bddeb790d89490a2ce24b96fbeb-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "446844194",
+    "listingUrl": "/homedetails/901-Barnacle-Bay-Ct-Daytona-Beach-FL-32124/446844194_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "701 S Atlantic Ave #717, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 180000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 394,
+    "images": [
+      "https://photos.zillowstatic.com/fp/9340658e549a32b9182f78d2fd62fd99-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48033434",
+    "listingUrl": "/homedetails/701-S-Atlantic-Ave-717-Daytona-Beach-FL-32118/48033434_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "800 N Atlantic Ave, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 120000,
+    "beds": 0,
+    "baths": 1,
+    "sqft": 515,
+    "images": [
+      "https://photos.zillowstatic.com/fp/a66d57d7557e61db207f6a2f5a25c3ac-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "58319523",
+    "listingUrl": "/homedetails/800-N-Atlantic-Ave-Daytona-Beach-FL-32118/58319523_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "104 Shearwater Way, Daytona Beach, FL 32119",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 250000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2107,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b55334ae98a555ea8907b3ce9d14f17a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48023452",
+    "listingUrl": "/homedetails/104-Shearwater-Way-Daytona-Beach-FL-32119/48023452_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "800 N Atlantic Ave #208, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 140000,
+    "beds": 0,
+    "baths": 1,
+    "sqft": 515,
+    "images": [
+      "https://photos.zillowstatic.com/fp/bef847d3bc7d39067df1b01d80b8335c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48032010",
+    "listingUrl": "/homedetails/800-N-Atlantic-Ave-208-Daytona-Beach-FL-32118/48032010_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "800 N Atlantic Ave #209, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 180000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 489,
+    "images": [
+      "https://photos.zillowstatic.com/fp/bd8c8191bb657aabac4abf243a8a540a-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48032011",
+    "listingUrl": "/homedetails/800-N-Atlantic-Ave-209-Daytona-Beach-FL-32118/48032011_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1336 Suwanee Rd, Daytona Beach, FL 32114",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 315000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1482,
+    "images": [
+      "https://photos.zillowstatic.com/fp/e61ff52f66541dfae27ae5fbeaec289e-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48045802",
+    "listingUrl": "/homedetails/1336-Suwanee-Rd-Daytona-Beach-FL-32114/48045802_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1504 Virginia Ave APT 203, Daytona Beach, FL 32114",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 124900,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 910,
+    "images": [
+      "https://photos.zillowstatic.com/fp/c122bf5faf19560eacc957486c7041bb-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48046248",
+    "listingUrl": "/homedetails/1504-Virginia-Ave-APT-203-Daytona-Beach-FL-32114/48046248_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "120 Bauer Cir, Daytona Beach, FL 32124",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 345000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1335,
+    "images": [
+      "https://photos.zillowstatic.com/fp/6fde669472e019b870628276c85a8a56-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "114460183",
+    "listingUrl": "/homedetails/120-Bauer-Cir-Daytona-Beach-FL-32124/114460183_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "231 Riverside Dr #102, Holly Hill, FL 32117",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 725000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 2239,
+    "images": [
+      "https://photos.zillowstatic.com/fp/764c76a890661e17e30f23f6d202e78c-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "450617076",
+    "listingUrl": "/homedetails/231-Riverside-Dr-102-Holly-Hill-FL-32117/450617076_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "429 Brentwood Dr, Daytona Beach, FL 32117",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 405000,
+    "beds": 3,
+    "baths": 3,
+    "sqft": 1500,
+    "images": [
+      "https://photos.zillowstatic.com/fp/e04498449c4543b25ee9a150fd5c2ce0-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48019463",
+    "listingUrl": "/homedetails/429-Brentwood-Dr-Daytona-Beach-FL-32117/48019463_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "144 Grebe Ct, Daytona Beach, FL 32119",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 300000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1700,
+    "images": [
+      "https://photos.zillowstatic.com/fp/97c89ab0a81111d19bdf8b24a524a3d3-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48022724",
+    "listingUrl": "/homedetails/144-Grebe-Ct-Daytona-Beach-FL-32119/48022724_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "164 Tuscany Bend St, Daytona Beach, FL 32117",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 419000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1733,
+    "images": [
+      "https://photos.zillowstatic.com/fp/102527e57773854724440ba17af67979-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "104271008",
+    "listingUrl": "/homedetails/164-Tuscany-Bend-St-Daytona-Beach-FL-32117/104271008_zpid/"
+  },
+  {
+    "source": "Zillow+Enhanced",
+    "address": "1224 S Peninsula Dr APT 511, Daytona Beach, FL 32118",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "price": 155000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 820,
+    "images": [
+      "https://photos.zillowstatic.com/fp/b9629e4372f05bd76bf880972f979c6f-p_e.jpg"
+    ],
+    "imageCount": 21,
+    "zpid": "48033004",
+    "listingUrl": "/homedetails/1224-S-Peninsula-Dr-APT-511-Daytona-Beach-FL-32118/48033004_zpid/"
+  }
+]
